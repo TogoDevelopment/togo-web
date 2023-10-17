@@ -1,0 +1,2875 @@
+array (
+  'action' => 'change_shipment_status',
+  'action_type' => 'shipment_status_with_courier',
+  'company_id' => '1400',
+  'tracking_id' => '6502941400967',
+  'invoice_ref' => '2615',
+  'date' => '2023-01-31 09:24:31',
+  'is_delivered' => '0',
+  'is_reversed_shipment' => '0',
+  'shipment_type' => 
+  array (
+    'id' => 'transport',
+    'label' => 'شحنة نقل',
+  ),
+  'status' => 
+  array (
+    'id' => '6',
+    'text' => 'مع السائق للتوصيل للمستلم',
+  ),
+  'prev_status' => 
+  array (
+    'id' => '5',
+    'text' => 'تم معالجتها',
+  ),
+)
+ ================ 
+array (
+  'action' => 'change_shipment_cost',
+  'action_type' => 'shipment_cost_changed',
+  'company_id' => '1400',
+  'tracking_id' => '6494881400986',
+  'invoice_ref' => '2565',
+  'date' => '2023-01-31 09:44:53',
+  'is_delivered' => '0',
+  'is_reversed_shipment' => '0',
+  'shipment_type' => 
+  array (
+    'id' => 'transport',
+    'label' => 'شحنة نقل',
+  ),
+  'cost' => 
+  array (
+    'shipment_amount' => '20',
+    'shipment_returned_amount' => '20',
+    'currency' => 'ils',
+  ),
+  'status' => 
+  array (
+    'id' => '5',
+    'text' => 'تم معالجتها',
+  ),
+  'prev_status' => 
+  array (
+    'id' => '3',
+    'text' => 'في المستودع [مستودع رام لله A] ',
+  ),
+)
+ ================ 
+array (
+  'action' => 'change_shipment_status',
+  'action_type' => 'shipment_status_in_bound',
+  'company_id' => '1400',
+  'tracking_id' => '6494881400986',
+  'invoice_ref' => '2565',
+  'date' => '2023-01-31 09:45:02',
+  'is_delivered' => '0',
+  'is_reversed_shipment' => '0',
+  'shipment_type' => 
+  array (
+    'id' => 'transport',
+    'label' => 'شحنة نقل',
+  ),
+  'status' => 
+  array (
+    'id' => '3',
+    'text' => 'في المستودع [مستودع رام لله A] ',
+  ),
+  'prev_status' => 
+  array (
+    'id' => '21',
+    'text' => 'أعيدت إلى المستودع',
+  ),
+)
+ ================ 
+array (
+  'action' => 'change_shipment_status',
+  'action_type' => 'shipment_status_with_courier',
+  'company_id' => '1400',
+  'tracking_id' => '6502961400453',
+  'invoice_ref' => '2618',
+  'date' => '2023-01-31 09:45:47',
+  'is_delivered' => '0',
+  'is_reversed_shipment' => '0',
+  'shipment_type' => 
+  array (
+    'id' => 'transport',
+    'label' => 'شحنة نقل',
+  ),
+  'status' => 
+  array (
+    'id' => '6',
+    'text' => 'مع السائق للتوصيل للمستلم',
+  ),
+  'prev_status' => 
+  array (
+    'id' => '5',
+    'text' => 'تم معالجتها',
+  ),
+)
+ ================ 
+array (
+  'action' => 'change_shipment_status',
+  'action_type' => 'shipment_status_in_bound',
+  'company_id' => '1400',
+  'tracking_id' => '6509241400123',
+  'invoice_ref' => '2395',
+  'date' => '2023-01-31 10:48:36',
+  'is_delivered' => '0',
+  'is_reversed_shipment' => '1',
+  'base_shipment_tracking_id' => '6457711400828',
+  'shipment_type' => 
+  array (
+    'id' => 'reversed_shipment',
+    'label' => 'شحنة إرجاع',
+  ),
+  'status' => 
+  array (
+    'id' => '3',
+    'text' => 'في المستودع [مستودع رام لله A] ',
+  ),
+  'prev_status' => 
+  array (
+    'id' => '21',
+    'text' => 'أعيدت إلى المستودع',
+  ),
+)
+ ================ 
+array (
+  'action' => 'change_shipment_status',
+  'action_type' => 'shipment_status_in_bound',
+  'company_id' => '1400',
+  'tracking_id' => '6513341400895',
+  'invoice_ref' => '2520',
+  'date' => '2023-01-31 10:49:03',
+  'is_delivered' => '0',
+  'is_reversed_shipment' => '1',
+  'base_shipment_tracking_id' => '6483931400447',
+  'shipment_type' => 
+  array (
+    'id' => 'reversed_shipment',
+    'label' => 'شحنة إرجاع',
+  ),
+  'status' => 
+  array (
+    'id' => '3',
+    'text' => 'في المستودع [مستودع رام لله A] ',
+  ),
+  'prev_status' => 
+  array (
+    'id' => '21',
+    'text' => 'أعيدت إلى المستودع',
+  ),
+)
+ ================ 
+array (
+  'action' => 'change_shipment_status',
+  'action_type' => 'shipment_status_with_courier',
+  'company_id' => '1400',
+  'tracking_id' => '6502931400514',
+  'invoice_ref' => '2614',
+  'date' => '2023-01-31 12:05:19',
+  'is_delivered' => '0',
+  'is_reversed_shipment' => '0',
+  'shipment_type' => 
+  array (
+    'id' => 'transport',
+    'label' => 'شحنة نقل',
+  ),
+  'status' => 
+  array (
+    'id' => '6',
+    'text' => 'مع السائق للتوصيل للمستلم',
+  ),
+  'prev_status' => 
+  array (
+    'id' => '5',
+    'text' => 'تم معالجتها',
+  ),
+)
+ ================ 
+array (
+  'action' => 'change_shipment_status',
+  'action_type' => 'shipment_status_delivered',
+  'company_id' => '1400',
+  'tracking_id' => '6502931400514',
+  'invoice_ref' => '2614',
+  'date' => '2023-01-31 12:06:17',
+  'is_delivered' => '1',
+  'is_reversed_shipment' => '0',
+  'shipment_type' => 
+  array (
+    'id' => 'transport',
+    'label' => 'شحنة نقل',
+  ),
+  'status' => 
+  array (
+    'id' => '7',
+    'text' => 'تم توصيلها إلى المستلم',
+  ),
+  'prev_status' => 
+  array (
+    'id' => '6',
+    'text' => 'مع السائق للتوصيل للمستلم',
+  ),
+)
+ ================ 
+array (
+  'action' => 'change_shipment_status',
+  'action_type' => 'shipment_status_with_courier',
+  'company_id' => '1400',
+  'tracking_id' => '6498341400983',
+  'invoice_ref' => '2594',
+  'date' => '2023-01-31 12:07:58',
+  'is_delivered' => '0',
+  'is_reversed_shipment' => '0',
+  'shipment_type' => 
+  array (
+    'id' => 'transport',
+    'label' => 'شحنة نقل',
+  ),
+  'status' => 
+  array (
+    'id' => '6',
+    'text' => 'مع السائق للتوصيل للمستلم',
+  ),
+  'prev_status' => 
+  array (
+    'id' => '5',
+    'text' => 'تم معالجتها',
+  ),
+)
+ ================ 
+array (
+  'action' => 'change_shipment_status',
+  'action_type' => 'shipment_status_delivered',
+  'company_id' => '1400',
+  'tracking_id' => '6498341400983',
+  'invoice_ref' => '2594',
+  'date' => '2023-01-31 12:08:28',
+  'is_delivered' => '1',
+  'is_reversed_shipment' => '0',
+  'shipment_type' => 
+  array (
+    'id' => 'transport',
+    'label' => 'شحنة نقل',
+  ),
+  'status' => 
+  array (
+    'id' => '7',
+    'text' => 'تم توصيلها إلى المستلم',
+  ),
+  'prev_status' => 
+  array (
+    'id' => '6',
+    'text' => 'مع السائق للتوصيل للمستلم',
+  ),
+)
+ ================ 
+array (
+  'action' => 'change_shipment_status',
+  'action_type' => 'shipment_status_delivered_cod',
+  'company_id' => '1400',
+  'tracking_id' => '6494861400520',
+  'invoice_ref' => '2563',
+  'date' => '2023-01-31 15:39:01',
+  'is_delivered' => '1',
+  'is_reversed_shipment' => '0',
+  'shipment_type' => 
+  array (
+    'id' => 'transport',
+    'label' => 'شحنة نقل',
+  ),
+  'status' => 
+  array (
+    'id' => '11',
+    'text' => 'تسليم ال COD للزبون',
+  ),
+  'prev_status' => 
+  array (
+    'id' => '20',
+    'text' => 'استلام ال COD المعد للتوصيل من قبل السائق',
+  ),
+)
+ ================ 
+array (
+  'action' => 'change_shipment_status',
+  'action_type' => 'shipment_status_delivered_cod',
+  'company_id' => '1400',
+  'tracking_id' => '6494891400156',
+  'invoice_ref' => '2567',
+  'date' => '2023-01-31 15:39:00',
+  'is_delivered' => '1',
+  'is_reversed_shipment' => '0',
+  'shipment_type' => 
+  array (
+    'id' => 'transport',
+    'label' => 'شحنة نقل',
+  ),
+  'status' => 
+  array (
+    'id' => '11',
+    'text' => 'تسليم ال COD للزبون',
+  ),
+  'prev_status' => 
+  array (
+    'id' => '20',
+    'text' => 'استلام ال COD المعد للتوصيل من قبل السائق',
+  ),
+)
+ ================ 
+array (
+  'action' => 'change_shipment_status',
+  'action_type' => 'shipment_status_delivered_cod',
+  'company_id' => '1400',
+  'tracking_id' => '6502971400143',
+  'invoice_ref' => '2619',
+  'date' => '2023-01-31 15:39:00',
+  'is_delivered' => '1',
+  'is_reversed_shipment' => '0',
+  'shipment_type' => 
+  array (
+    'id' => 'transport',
+    'label' => 'شحنة نقل',
+  ),
+  'status' => 
+  array (
+    'id' => '11',
+    'text' => 'تسليم ال COD للزبون',
+  ),
+  'prev_status' => 
+  array (
+    'id' => '20',
+    'text' => 'استلام ال COD المعد للتوصيل من قبل السائق',
+  ),
+)
+ ================ 
+array (
+  'action' => 'change_shipment_status',
+  'action_type' => 'shipment_status_delivered',
+  'company_id' => '1400',
+  'tracking_id' => '6502961400453',
+  'invoice_ref' => '2618',
+  'date' => '2023-02-01 08:12:14',
+  'is_delivered' => '1',
+  'is_reversed_shipment' => '0',
+  'shipment_type' => 
+  array (
+    'id' => 'transport',
+    'label' => 'شحنة نقل',
+  ),
+  'status' => 
+  array (
+    'id' => '7',
+    'text' => 'تم توصيلها إلى المستلم',
+  ),
+  'prev_status' => 
+  array (
+    'id' => '6',
+    'text' => 'مع السائق للتوصيل للمستلم',
+  ),
+)
+ ================ 
+array (
+  'action' => 'change_shipment_status',
+  'action_type' => 'shipment_status_in_bound',
+  'company_id' => '1400',
+  'tracking_id' => '6502941400967',
+  'invoice_ref' => '2615',
+  'date' => '2023-02-01 10:35:48',
+  'is_delivered' => '0',
+  'is_reversed_shipment' => '0',
+  'shipment_type' => 
+  array (
+    'id' => 'transport',
+    'label' => 'شحنة نقل',
+  ),
+  'status' => 
+  array (
+    'id' => '3',
+    'text' => 'في المستودع [مستودع رام لله A] ',
+  ),
+  'prev_status' => 
+  array (
+    'id' => '21',
+    'text' => 'أعيدت إلى المستودع',
+  ),
+)
+ ================ 
+array (
+  'action' => 'change_shipment_status',
+  'action_type' => 'shipment_status_in_bound',
+  'company_id' => '1400',
+  'tracking_id' => '6502951400929',
+  'invoice_ref' => '2617',
+  'date' => '2023-02-01 10:36:20',
+  'is_delivered' => '0',
+  'is_reversed_shipment' => '0',
+  'shipment_type' => 
+  array (
+    'id' => 'transport',
+    'label' => 'شحنة نقل',
+  ),
+  'status' => 
+  array (
+    'id' => '3',
+    'text' => 'في المستودع [مستودع رام لله A] ',
+  ),
+  'prev_status' => 
+  array (
+    'id' => '21',
+    'text' => 'أعيدت إلى المستودع',
+  ),
+)
+ ================ 
+array (
+  'action' => 'change_shipment_cost',
+  'action_type' => 'shipment_cost_changed',
+  'company_id' => '1400',
+  'tracking_id' => '6509241400123',
+  'invoice_ref' => '2395',
+  'date' => '2023-02-01 13:16:01',
+  'is_delivered' => '0',
+  'is_reversed_shipment' => '1',
+  'base_shipment_tracking_id' => '6457711400828',
+  'shipment_type' => 
+  array (
+    'id' => 'reversed_shipment',
+    'label' => 'شحنة إرجاع',
+  ),
+  'cost' => 
+  array (
+    'shipment_amount' => '20',
+    'shipment_returned_amount' => '20',
+    'currency' => 'ils',
+  ),
+  'status' => 
+  array (
+    'id' => '5',
+    'text' => 'تم معالجتها',
+  ),
+  'prev_status' => 
+  array (
+    'id' => '3',
+    'text' => 'في المستودع [مستودع رام لله A] ',
+  ),
+)
+ ================ 
+array (
+  'action' => 'change_shipment_status',
+  'action_type' => 'shipment_status_in_bound',
+  'company_id' => '1400',
+  'tracking_id' => '6509241400123',
+  'invoice_ref' => '2395',
+  'date' => '2023-02-01 13:16:20',
+  'is_delivered' => '0',
+  'is_reversed_shipment' => '1',
+  'base_shipment_tracking_id' => '6457711400828',
+  'shipment_type' => 
+  array (
+    'id' => 'reversed_shipment',
+    'label' => 'شحنة إرجاع',
+  ),
+  'status' => 
+  array (
+    'id' => '3',
+    'text' => 'في المستودع [مستودع رام لله A] ',
+  ),
+  'prev_status' => 
+  array (
+    'id' => '21',
+    'text' => 'أعيدت إلى المستودع',
+  ),
+)
+ ================ 
+array (
+  'action' => 'change_shipment_status',
+  'action_type' => 'shipment_status_information_received',
+  'company_id' => '1400',
+  'tracking_id' => '6522321400584',
+  'invoice_ref' => '2656',
+  'date' => '2023-02-01 13:22:30',
+  'is_delivered' => '0',
+  'is_reversed_shipment' => '0',
+  'shipment_type' => 
+  array (
+    'id' => 'transport',
+    'label' => 'شحنة نقل',
+  ),
+  'status' => 
+  array (
+    'id' => '1',
+    'text' => 'تم إرسال معلوماتها',
+  ),
+  'prev_status' => 
+  array (
+    'id' => '1',
+    'text' => 'تم إرسال معلوماتها',
+  ),
+)
+ ================ 
+array (
+  'action' => 'change_shipment_status',
+  'action_type' => 'shipment_status_delivered_cod',
+  'company_id' => '1400',
+  'tracking_id' => '6502931400514',
+  'invoice_ref' => '2614',
+  'date' => '2023-02-01 14:36:59',
+  'is_delivered' => '1',
+  'is_reversed_shipment' => '0',
+  'shipment_type' => 
+  array (
+    'id' => 'transport',
+    'label' => 'شحنة نقل',
+  ),
+  'status' => 
+  array (
+    'id' => '11',
+    'text' => 'تسليم ال COD للزبون',
+  ),
+  'prev_status' => 
+  array (
+    'id' => '20',
+    'text' => 'استلام ال COD المعد للتوصيل من قبل السائق',
+  ),
+)
+ ================ 
+array (
+  'action' => 'change_shipment_status',
+  'action_type' => 'shipment_status_delivered_cod',
+  'company_id' => '1400',
+  'tracking_id' => '6498341400983',
+  'invoice_ref' => '2594',
+  'date' => '2023-02-01 14:37:05',
+  'is_delivered' => '1',
+  'is_reversed_shipment' => '0',
+  'shipment_type' => 
+  array (
+    'id' => 'transport',
+    'label' => 'شحنة نقل',
+  ),
+  'status' => 
+  array (
+    'id' => '11',
+    'text' => 'تسليم ال COD للزبون',
+  ),
+  'prev_status' => 
+  array (
+    'id' => '20',
+    'text' => 'استلام ال COD المعد للتوصيل من قبل السائق',
+  ),
+)
+ ================ 
+array (
+  'action' => 'change_shipment_status',
+  'action_type' => 'shipment_status_delivered_cod',
+  'company_id' => '1400',
+  'tracking_id' => '6502961400453',
+  'invoice_ref' => '2618',
+  'date' => '2023-02-01 14:37:14',
+  'is_delivered' => '1',
+  'is_reversed_shipment' => '0',
+  'shipment_type' => 
+  array (
+    'id' => 'transport',
+    'label' => 'شحنة نقل',
+  ),
+  'status' => 
+  array (
+    'id' => '11',
+    'text' => 'تسليم ال COD للزبون',
+  ),
+  'prev_status' => 
+  array (
+    'id' => '20',
+    'text' => 'استلام ال COD المعد للتوصيل من قبل السائق',
+  ),
+)
+ ================ 
+array (
+  'action' => 'change_shipment_status',
+  'action_type' => 'shipment_status_deleted',
+  'company_id' => '1400',
+  'tracking_id' => '6522321400584',
+  'invoice_ref' => '2656',
+  'date' => '2023-02-01 14:40:40',
+  'is_delivered' => '0',
+  'is_reversed_shipment' => '0',
+  'shipment_type' => 
+  array (
+    'id' => 'transport',
+    'label' => 'شحنة نقل',
+  ),
+  'status' => 
+  array (
+    'id' => '43',
+    'text' => 'محذوفة',
+  ),
+  'prev_status' => 
+  array (
+    'id' => '1',
+    'text' => 'تم إرسال معلوماتها',
+  ),
+)
+ ================ 
+array (
+  'action' => 'change_shipment_status',
+  'action_type' => 'shipment_status_delivered',
+  'company_id' => '1400',
+  'tracking_id' => '6498351400304',
+  'invoice_ref' => '2593',
+  'date' => '2023-02-02 10:04:24',
+  'is_delivered' => '1',
+  'is_reversed_shipment' => '0',
+  'shipment_type' => 
+  array (
+    'id' => 'transport',
+    'label' => 'شحنة نقل',
+  ),
+  'status' => 
+  array (
+    'id' => '7',
+    'text' => 'تم توصيلها إلى المستلم',
+  ),
+  'prev_status' => 
+  array (
+    'id' => '6',
+    'text' => 'مع السائق للتوصيل للمستلم',
+  ),
+)
+ ================ 
+array (
+  'action' => 'change_shipment_status',
+  'action_type' => 'shipment_status_delivered',
+  'company_id' => '1400',
+  'tracking_id' => '6501711400711',
+  'invoice_ref' => '2600',
+  'date' => '2023-02-02 10:04:55',
+  'is_delivered' => '1',
+  'is_reversed_shipment' => '0',
+  'shipment_type' => 
+  array (
+    'id' => 'transport',
+    'label' => 'شحنة نقل',
+  ),
+  'status' => 
+  array (
+    'id' => '7',
+    'text' => 'تم توصيلها إلى المستلم',
+  ),
+  'prev_status' => 
+  array (
+    'id' => '6',
+    'text' => 'مع السائق للتوصيل للمستلم',
+  ),
+)
+ ================ 
+array (
+  'action' => 'change_shipment_cost',
+  'action_type' => 'shipment_cost_changed',
+  'company_id' => '1400',
+  'tracking_id' => '6498351400304',
+  'invoice_ref' => '2593',
+  'date' => '2023-02-02 12:15:46',
+  'is_delivered' => '1',
+  'is_reversed_shipment' => '0',
+  'shipment_type' => 
+  array (
+    'id' => 'transport',
+    'label' => 'شحنة نقل',
+  ),
+  'cost' => 
+  array (
+    'shipment_amount' => '92',
+    'shipment_returned_amount' => '92',
+    'currency' => 'ils',
+  ),
+  'status' => 
+  array (
+    'id' => '10',
+    'text' => ' تصدير ال COD',
+  ),
+  'prev_status' => 
+  array (
+    'id' => '9',
+    'text' => 'تسليم الCOD للمحاسب',
+  ),
+)
+ ================ 
+array (
+  'action' => 'change_shipment_cost',
+  'action_type' => 'shipment_cost_changed',
+  'company_id' => '1400',
+  'tracking_id' => '6501711400711',
+  'invoice_ref' => '2600',
+  'date' => '2023-02-02 12:17:03',
+  'is_delivered' => '1',
+  'is_reversed_shipment' => '0',
+  'shipment_type' => 
+  array (
+    'id' => 'transport',
+    'label' => 'شحنة نقل',
+  ),
+  'cost' => 
+  array (
+    'shipment_amount' => '92',
+    'shipment_returned_amount' => '92',
+    'currency' => 'ils',
+  ),
+  'status' => 
+  array (
+    'id' => '10',
+    'text' => ' تصدير ال COD',
+  ),
+  'prev_status' => 
+  array (
+    'id' => '9',
+    'text' => 'تسليم الCOD للمحاسب',
+  ),
+)
+ ================ 
+array (
+  'action' => 'change_shipment_status',
+  'action_type' => 'shipment_status_with_courier',
+  'company_id' => '1400',
+  'tracking_id' => '6498331400858',
+  'invoice_ref' => '2595',
+  'date' => '2023-02-02 13:03:50',
+  'is_delivered' => '0',
+  'is_reversed_shipment' => '0',
+  'shipment_type' => 
+  array (
+    'id' => 'transport',
+    'label' => 'شحنة نقل',
+  ),
+  'status' => 
+  array (
+    'id' => '6',
+    'text' => 'مع السائق للتوصيل للمستلم',
+  ),
+  'prev_status' => 
+  array (
+    'id' => '5',
+    'text' => 'تم معالجتها',
+  ),
+)
+ ================ 
+array (
+  'action' => 'change_shipment_status',
+  'action_type' => 'shipment_status_delivered',
+  'company_id' => '1400',
+  'tracking_id' => '6498331400858',
+  'invoice_ref' => '2595',
+  'date' => '2023-02-02 13:04:35',
+  'is_delivered' => '1',
+  'is_reversed_shipment' => '0',
+  'shipment_type' => 
+  array (
+    'id' => 'transport',
+    'label' => 'شحنة نقل',
+  ),
+  'status' => 
+  array (
+    'id' => '7',
+    'text' => 'تم توصيلها إلى المستلم',
+  ),
+  'prev_status' => 
+  array (
+    'id' => '6',
+    'text' => 'مع السائق للتوصيل للمستلم',
+  ),
+)
+ ================ 
+array (
+  'action' => 'change_shipment_status',
+  'action_type' => 'shipment_status_deleted',
+  'company_id' => '1400',
+  'tracking_id' => '6513341400895',
+  'invoice_ref' => '2520',
+  'date' => '2023-02-02 13:56:23',
+  'is_delivered' => '0',
+  'is_reversed_shipment' => '1',
+  'base_shipment_tracking_id' => '6483931400447',
+  'shipment_type' => 
+  array (
+    'id' => 'reversed_shipment',
+    'label' => 'شحنة إرجاع',
+  ),
+  'status' => 
+  array (
+    'id' => '43',
+    'text' => 'محذوفة',
+  ),
+  'prev_status' => 
+  array (
+    'id' => '5',
+    'text' => 'تم معالجتها',
+  ),
+)
+ ================ 
+array (
+  'action' => 'change_shipment_status',
+  'action_type' => 'shipment_status_in_bound',
+  'company_id' => '1400',
+  'tracking_id' => '6509241400123',
+  'invoice_ref' => '2395',
+  'date' => '2023-02-02 14:36:47',
+  'is_delivered' => '0',
+  'is_reversed_shipment' => '1',
+  'base_shipment_tracking_id' => '6457711400828',
+  'shipment_type' => 
+  array (
+    'id' => 'reversed_shipment',
+    'label' => 'شحنة إرجاع',
+  ),
+  'status' => 
+  array (
+    'id' => '3',
+    'text' => 'في المستودع [مستودع رام لله A] ',
+  ),
+  'prev_status' => 
+  array (
+    'id' => '21',
+    'text' => 'أعيدت إلى المستودع',
+  ),
+)
+ ================ 
+array (
+  'action' => 'change_shipment_status',
+  'action_type' => 'shipment_status_in_bound',
+  'company_id' => '1400',
+  'tracking_id' => '6502941400967',
+  'invoice_ref' => '2615',
+  'date' => '2023-02-02 14:37:47',
+  'is_delivered' => '0',
+  'is_reversed_shipment' => '0',
+  'shipment_type' => 
+  array (
+    'id' => 'transport',
+    'label' => 'شحنة نقل',
+  ),
+  'status' => 
+  array (
+    'id' => '3',
+    'text' => 'في المستودع [مستودع رام لله A] ',
+  ),
+  'prev_status' => 
+  array (
+    'id' => '21',
+    'text' => 'أعيدت إلى المستودع',
+  ),
+)
+ ================ 
+array (
+  'action' => 'change_shipment_status',
+  'action_type' => 'shipment_status_in_bound',
+  'company_id' => '1400',
+  'tracking_id' => '6502951400929',
+  'invoice_ref' => '2617',
+  'date' => '2023-02-02 14:38:14',
+  'is_delivered' => '0',
+  'is_reversed_shipment' => '0',
+  'shipment_type' => 
+  array (
+    'id' => 'transport',
+    'label' => 'شحنة نقل',
+  ),
+  'status' => 
+  array (
+    'id' => '3',
+    'text' => 'في المستودع [مستودع رام لله A] ',
+  ),
+  'prev_status' => 
+  array (
+    'id' => '21',
+    'text' => 'أعيدت إلى المستودع',
+  ),
+)
+ ================ 
+array (
+  'action' => 'change_shipment_status',
+  'action_type' => 'shipment_status_in_bound',
+  'company_id' => '1400',
+  'tracking_id' => '6486481400941',
+  'invoice_ref' => '2513',
+  'date' => '2023-02-02 14:42:44',
+  'is_delivered' => '0',
+  'is_reversed_shipment' => '0',
+  'shipment_type' => 
+  array (
+    'id' => 'transport',
+    'label' => 'شحنة نقل',
+  ),
+  'status' => 
+  array (
+    'id' => '3',
+    'text' => 'في المستودع [مستودع رام لله A] ',
+  ),
+  'prev_status' => 
+  array (
+    'id' => '21',
+    'text' => 'أعيدت إلى المستودع',
+  ),
+)
+ ================ 
+array (
+  'action' => 'change_shipment_status',
+  'action_type' => 'shipment_status_in_bound',
+  'company_id' => '1400',
+  'tracking_id' => '6494881400986',
+  'invoice_ref' => '2565',
+  'date' => '2023-02-02 14:44:07',
+  'is_delivered' => '0',
+  'is_reversed_shipment' => '0',
+  'shipment_type' => 
+  array (
+    'id' => 'transport',
+    'label' => 'شحنة نقل',
+  ),
+  'status' => 
+  array (
+    'id' => '3',
+    'text' => 'في المستودع [مستودع رام لله A] ',
+  ),
+  'prev_status' => 
+  array (
+    'id' => '21',
+    'text' => 'أعيدت إلى المستودع',
+  ),
+)
+ ================ 
+array (
+  'action' => 'change_shipment_cost',
+  'action_type' => 'shipment_cost_changed',
+  'company_id' => '1400',
+  'tracking_id' => '6502981400943',
+  'invoice_ref' => '2620',
+  'date' => '2023-02-04 12:37:04',
+  'is_delivered' => '0',
+  'is_reversed_shipment' => '0',
+  'shipment_type' => 
+  array (
+    'id' => 'transport',
+    'label' => 'شحنة نقل',
+  ),
+  'cost' => 
+  array (
+    'shipment_amount' => '20',
+    'shipment_returned_amount' => '20',
+    'currency' => 'ils',
+  ),
+  'status' => 
+  array (
+    'id' => '5',
+    'text' => 'تم معالجتها',
+  ),
+  'prev_status' => 
+  array (
+    'id' => '3',
+    'text' => 'في المستودع [مستودع رام لله A] ',
+  ),
+)
+ ================ 
+array (
+  'action' => 'change_shipment_status',
+  'action_type' => 'shipment_status_with_courier',
+  'company_id' => '1400',
+  'tracking_id' => '6502981400943',
+  'invoice_ref' => '2620',
+  'date' => '2023-02-04 12:37:23',
+  'is_delivered' => '0',
+  'is_reversed_shipment' => '0',
+  'shipment_type' => 
+  array (
+    'id' => 'transport',
+    'label' => 'شحنة نقل',
+  ),
+  'status' => 
+  array (
+    'id' => '6',
+    'text' => 'مع السائق للتوصيل للمستلم',
+  ),
+  'prev_status' => 
+  array (
+    'id' => '5',
+    'text' => 'تم معالجتها',
+  ),
+)
+ ================ 
+array (
+  'action' => 'change_shipment_status',
+  'action_type' => 'shipment_status_delivered',
+  'company_id' => '1400',
+  'tracking_id' => '6502981400943',
+  'invoice_ref' => '2620',
+  'date' => '2023-02-04 12:37:38',
+  'is_delivered' => '1',
+  'is_reversed_shipment' => '0',
+  'shipment_type' => 
+  array (
+    'id' => 'transport',
+    'label' => 'شحنة نقل',
+  ),
+  'status' => 
+  array (
+    'id' => '7',
+    'text' => 'تم توصيلها إلى المستلم',
+  ),
+  'prev_status' => 
+  array (
+    'id' => '6',
+    'text' => 'مع السائق للتوصيل للمستلم',
+  ),
+)
+ ================ 
+array (
+  'action' => 'change_shipment_status',
+  'action_type' => 'shipment_status_with_courier',
+  'company_id' => '1400',
+  'tracking_id' => '6494881400986',
+  'invoice_ref' => '2565',
+  'date' => '2023-02-04 12:39:19',
+  'is_delivered' => '0',
+  'is_reversed_shipment' => '0',
+  'shipment_type' => 
+  array (
+    'id' => 'transport',
+    'label' => 'شحنة نقل',
+  ),
+  'status' => 
+  array (
+    'id' => '6',
+    'text' => 'مع السائق للتوصيل للمستلم',
+  ),
+  'prev_status' => 
+  array (
+    'id' => '5',
+    'text' => 'تم معالجتها',
+  ),
+)
+ ================ 
+array (
+  'action' => 'change_shipment_status',
+  'action_type' => 'shipment_status_with_courier',
+  'company_id' => '1400',
+  'tracking_id' => '6502941400967',
+  'invoice_ref' => '2615',
+  'date' => '2023-02-04 13:08:21',
+  'is_delivered' => '0',
+  'is_reversed_shipment' => '0',
+  'shipment_type' => 
+  array (
+    'id' => 'transport',
+    'label' => 'شحنة نقل',
+  ),
+  'status' => 
+  array (
+    'id' => '6',
+    'text' => 'مع السائق للتوصيل للمستلم',
+  ),
+  'prev_status' => 
+  array (
+    'id' => '5',
+    'text' => 'تم معالجتها',
+  ),
+)
+ ================ 
+array (
+  'action' => 'change_shipment_status',
+  'action_type' => 'shipment_status_with_courier',
+  'company_id' => '1400',
+  'tracking_id' => '6502951400929',
+  'invoice_ref' => '2617',
+  'date' => '2023-02-04 13:08:25',
+  'is_delivered' => '0',
+  'is_reversed_shipment' => '0',
+  'shipment_type' => 
+  array (
+    'id' => 'transport',
+    'label' => 'شحنة نقل',
+  ),
+  'status' => 
+  array (
+    'id' => '6',
+    'text' => 'مع السائق للتوصيل للمستلم',
+  ),
+  'prev_status' => 
+  array (
+    'id' => '5',
+    'text' => 'تم معالجتها',
+  ),
+)
+ ================ 
+array (
+  'action' => 'change_shipment_status',
+  'action_type' => 'shipment_status_in_bound',
+  'company_id' => '1400',
+  'tracking_id' => '6509241400123',
+  'invoice_ref' => '2395',
+  'date' => '2023-02-04 16:20:50',
+  'is_delivered' => '0',
+  'is_reversed_shipment' => '1',
+  'base_shipment_tracking_id' => '6457711400828',
+  'shipment_type' => 
+  array (
+    'id' => 'reversed_shipment',
+    'label' => 'شحنة إرجاع',
+  ),
+  'status' => 
+  array (
+    'id' => '3',
+    'text' => 'في المستودع [مستودع رام لله A] ',
+  ),
+  'prev_status' => 
+  array (
+    'id' => '21',
+    'text' => 'أعيدت إلى المستودع',
+  ),
+)
+ ================ 
+array (
+  'action' => 'change_shipment_status',
+  'action_type' => 'shipment_status_delivered',
+  'company_id' => '1400',
+  'tracking_id' => '6494881400986',
+  'invoice_ref' => '2565',
+  'date' => '2023-02-04 16:50:17',
+  'is_delivered' => '1',
+  'is_reversed_shipment' => '0',
+  'shipment_type' => 
+  array (
+    'id' => 'transport',
+    'label' => 'شحنة نقل',
+  ),
+  'status' => 
+  array (
+    'id' => '7',
+    'text' => 'تم توصيلها إلى المستلم',
+  ),
+  'prev_status' => 
+  array (
+    'id' => '6',
+    'text' => 'مع السائق للتوصيل للمستلم',
+  ),
+)
+ ================ 
+array (
+  'action' => 'change_shipment_status',
+  'action_type' => 'shipment_status_delivered',
+  'company_id' => '1400',
+  'tracking_id' => '6502941400967',
+  'invoice_ref' => '2615',
+  'date' => '2023-02-04 18:29:29',
+  'is_delivered' => '1',
+  'is_reversed_shipment' => '0',
+  'shipment_type' => 
+  array (
+    'id' => 'transport',
+    'label' => 'شحنة نقل',
+  ),
+  'status' => 
+  array (
+    'id' => '7',
+    'text' => 'تم توصيلها إلى المستلم',
+  ),
+  'prev_status' => 
+  array (
+    'id' => '6',
+    'text' => 'مع السائق للتوصيل للمستلم',
+  ),
+)
+ ================ 
+array (
+  'action' => 'change_shipment_status',
+  'action_type' => 'shipment_status_with_courier',
+  'company_id' => '1400',
+  'tracking_id' => '6509241400123',
+  'invoice_ref' => '2395',
+  'date' => '2023-02-05 08:18:19',
+  'is_delivered' => '0',
+  'is_reversed_shipment' => '1',
+  'base_shipment_tracking_id' => '6457711400828',
+  'shipment_type' => 
+  array (
+    'id' => 'reversed_shipment',
+    'label' => 'شحنة إرجاع',
+  ),
+  'status' => 
+  array (
+    'id' => '6',
+    'text' => 'مع السائق للتوصيل للمستلم',
+  ),
+  'prev_status' => 
+  array (
+    'id' => '5',
+    'text' => 'تم معالجتها',
+  ),
+)
+ ================ 
+array (
+  'action' => 'change_shipment_cost',
+  'action_type' => 'shipment_cost_changed',
+  'company_id' => '1400',
+  'tracking_id' => '6502951400929',
+  'invoice_ref' => '2617',
+  'date' => '2023-02-05 10:05:02',
+  'is_delivered' => '0',
+  'is_reversed_shipment' => '0',
+  'shipment_type' => 
+  array (
+    'id' => 'transport',
+    'label' => 'شحنة نقل',
+  ),
+  'cost' => 
+  array (
+    'shipment_amount' => '20',
+    'shipment_returned_amount' => '20',
+    'currency' => 'ils',
+  ),
+  'status' => 
+  array (
+    'id' => '6',
+    'text' => 'مع السائق للتوصيل للمستلم',
+  ),
+  'prev_status' => 
+  array (
+    'id' => '5',
+    'text' => 'تم معالجتها',
+  ),
+)
+ ================ 
+array (
+  'action' => 'change_shipment_status',
+  'action_type' => 'shipment_status_in_bound',
+  'company_id' => '1400',
+  'tracking_id' => '6502951400929',
+  'invoice_ref' => '2617',
+  'date' => '2023-02-05 10:05:13',
+  'is_delivered' => '0',
+  'is_reversed_shipment' => '0',
+  'shipment_type' => 
+  array (
+    'id' => 'transport',
+    'label' => 'شحنة نقل',
+  ),
+  'status' => 
+  array (
+    'id' => '3',
+    'text' => 'في المستودع [مستودع رام لله A] ',
+  ),
+  'prev_status' => 
+  array (
+    'id' => '21',
+    'text' => 'أعيدت إلى المستودع',
+  ),
+)
+ ================ 
+array (
+  'action' => 'change_shipment_status',
+  'action_type' => 'shipment_status_delivered',
+  'company_id' => '1400',
+  'tracking_id' => '6509241400123',
+  'invoice_ref' => '2395',
+  'date' => '2023-02-05 10:52:47',
+  'is_delivered' => '1',
+  'is_reversed_shipment' => '1',
+  'base_shipment_tracking_id' => '6457711400828',
+  'shipment_type' => 
+  array (
+    'id' => 'reversed_shipment',
+    'label' => 'شحنة إرجاع',
+  ),
+  'status' => 
+  array (
+    'id' => '7',
+    'text' => 'تم توصيلها إلى المستلم',
+  ),
+  'prev_status' => 
+  array (
+    'id' => '6',
+    'text' => 'مع السائق للتوصيل للمستلم',
+  ),
+)
+ ================ 
+array (
+  'action' => 'change_shipment_status',
+  'action_type' => 'shipment_status_delivered_cod',
+  'company_id' => '1400',
+  'tracking_id' => '6501711400711',
+  'invoice_ref' => '2600',
+  'date' => '2023-02-05 12:07:04',
+  'is_delivered' => '1',
+  'is_reversed_shipment' => '0',
+  'shipment_type' => 
+  array (
+    'id' => 'transport',
+    'label' => 'شحنة نقل',
+  ),
+  'status' => 
+  array (
+    'id' => '11',
+    'text' => 'تسليم ال COD للزبون',
+  ),
+  'prev_status' => 
+  array (
+    'id' => '20',
+    'text' => 'استلام ال COD المعد للتوصيل من قبل السائق',
+  ),
+)
+ ================ 
+array (
+  'action' => 'change_shipment_status',
+  'action_type' => 'shipment_status_delivered_cod',
+  'company_id' => '1400',
+  'tracking_id' => '6502981400943',
+  'invoice_ref' => '2620',
+  'date' => '2023-02-05 12:07:18',
+  'is_delivered' => '1',
+  'is_reversed_shipment' => '0',
+  'shipment_type' => 
+  array (
+    'id' => 'transport',
+    'label' => 'شحنة نقل',
+  ),
+  'status' => 
+  array (
+    'id' => '11',
+    'text' => 'تسليم ال COD للزبون',
+  ),
+  'prev_status' => 
+  array (
+    'id' => '20',
+    'text' => 'استلام ال COD المعد للتوصيل من قبل السائق',
+  ),
+)
+ ================ 
+array (
+  'action' => 'change_shipment_cost',
+  'action_type' => 'shipment_cost_changed',
+  'company_id' => '1400',
+  'tracking_id' => '6486481400941',
+  'invoice_ref' => '2513',
+  'date' => '2023-02-06 09:47:55',
+  'is_delivered' => '0',
+  'is_reversed_shipment' => '0',
+  'shipment_type' => 
+  array (
+    'id' => 'transport',
+    'label' => 'شحنة نقل',
+  ),
+  'cost' => 
+  array (
+    'shipment_amount' => '20',
+    'shipment_returned_amount' => '20',
+    'currency' => 'ils',
+  ),
+  'status' => 
+  array (
+    'id' => '3',
+    'text' => 'في المستودع [مستودع رام لله A] ',
+  ),
+  'prev_status' => 
+  array (
+    'id' => '21',
+    'text' => 'أعيدت إلى المستودع',
+  ),
+)
+ ================ 
+array (
+  'action' => 'change_shipment_status',
+  'action_type' => 'shipment_status_with_courier',
+  'company_id' => '1400',
+  'tracking_id' => '6486481400941',
+  'invoice_ref' => '2513',
+  'date' => '2023-02-06 09:48:14',
+  'is_delivered' => '0',
+  'is_reversed_shipment' => '0',
+  'shipment_type' => 
+  array (
+    'id' => 'transport',
+    'label' => 'شحنة نقل',
+  ),
+  'status' => 
+  array (
+    'id' => '6',
+    'text' => 'مع السائق للتوصيل للمستلم',
+  ),
+  'prev_status' => 
+  array (
+    'id' => '5',
+    'text' => 'تم معالجتها',
+  ),
+)
+ ================ 
+array (
+  'action' => 'change_shipment_status',
+  'action_type' => 'shipment_status_delivered',
+  'company_id' => '1400',
+  'tracking_id' => '6486481400941',
+  'invoice_ref' => '2513',
+  'date' => '2023-02-06 09:48:36',
+  'is_delivered' => '1',
+  'is_reversed_shipment' => '0',
+  'shipment_type' => 
+  array (
+    'id' => 'transport',
+    'label' => 'شحنة نقل',
+  ),
+  'status' => 
+  array (
+    'id' => '7',
+    'text' => 'تم توصيلها إلى المستلم',
+  ),
+  'prev_status' => 
+  array (
+    'id' => '6',
+    'text' => 'مع السائق للتوصيل للمستلم',
+  ),
+)
+ ================ 
+array (
+  'action' => 'change_shipment_cost',
+  'action_type' => 'shipment_cost_changed',
+  'company_id' => '1400',
+  'tracking_id' => '6468511400482',
+  'invoice_ref' => '2421',
+  'date' => '2023-02-06 13:39:55',
+  'is_delivered' => '1',
+  'is_reversed_shipment' => '0',
+  'shipment_type' => 
+  array (
+    'id' => 'transport',
+    'label' => 'شحنة نقل',
+  ),
+  'cost' => 
+  array (
+    'shipment_amount' => '35',
+    'shipment_returned_amount' => '35',
+    'currency' => 'ils',
+  ),
+  'status' => 
+  array (
+    'id' => '10',
+    'text' => ' تصدير ال COD',
+  ),
+  'prev_status' => 
+  array (
+    'id' => '9',
+    'text' => 'تسليم الCOD للمحاسب',
+  ),
+)
+ ================ 
+array (
+  'action' => 'change_shipment_cost',
+  'action_type' => 'shipment_cost_changed',
+  'company_id' => '1400',
+  'tracking_id' => '6468511400482',
+  'invoice_ref' => '2421',
+  'date' => '2023-02-06 13:40:14',
+  'is_delivered' => '1',
+  'is_reversed_shipment' => '0',
+  'shipment_type' => 
+  array (
+    'id' => 'transport',
+    'label' => 'شحنة نقل',
+  ),
+  'cost' => 
+  array (
+    'shipment_amount' => '30',
+    'shipment_returned_amount' => '30',
+    'currency' => 'ils',
+  ),
+  'status' => 
+  array (
+    'id' => '10',
+    'text' => ' تصدير ال COD',
+  ),
+  'prev_status' => 
+  array (
+    'id' => '9',
+    'text' => 'تسليم الCOD للمحاسب',
+  ),
+)
+ ================ 
+array (
+  'action' => 'change_shipment_cost',
+  'action_type' => 'shipment_cost_changed',
+  'company_id' => '1400',
+  'tracking_id' => '6498331400858',
+  'invoice_ref' => '2595',
+  'date' => '2023-02-06 13:46:47',
+  'is_delivered' => '1',
+  'is_reversed_shipment' => '0',
+  'shipment_type' => 
+  array (
+    'id' => 'transport',
+    'label' => 'شحنة نقل',
+  ),
+  'cost' => 
+  array (
+    'shipment_amount' => '35',
+    'shipment_returned_amount' => '35',
+    'currency' => 'ils',
+  ),
+  'status' => 
+  array (
+    'id' => '10',
+    'text' => ' تصدير ال COD',
+  ),
+  'prev_status' => 
+  array (
+    'id' => '9',
+    'text' => 'تسليم الCOD للمحاسب',
+  ),
+)
+ ================ 
+array (
+  'action' => 'change_shipment_status',
+  'action_type' => 'shipment_status_delivered_cod',
+  'company_id' => '1400',
+  'tracking_id' => '6498351400304',
+  'invoice_ref' => '2593',
+  'date' => '2023-02-07 11:59:21',
+  'is_delivered' => '1',
+  'is_reversed_shipment' => '0',
+  'shipment_type' => 
+  array (
+    'id' => 'transport',
+    'label' => 'شحنة نقل',
+  ),
+  'status' => 
+  array (
+    'id' => '11',
+    'text' => 'تسليم ال COD للزبون',
+  ),
+  'prev_status' => 
+  array (
+    'id' => '20',
+    'text' => 'استلام ال COD المعد للتوصيل من قبل السائق',
+  ),
+)
+ ================ 
+array (
+  'action' => 'change_shipment_status',
+  'action_type' => 'shipment_status_rejected',
+  'company_id' => '1400',
+  'tracking_id' => '6437461400262',
+  'invoice_ref' => '2329',
+  'date' => '2023-02-08 16:08:39',
+  'is_delivered' => '0',
+  'is_reversed_shipment' => '0',
+  'shipment_type' => 
+  array (
+    'id' => 'transport',
+    'label' => 'شحنة نقل',
+  ),
+  'status' => 
+  array (
+    'id' => '41',
+    'text' => 'تم رفضها',
+  ),
+  'prev_status' => 
+  array (
+    'id' => '6',
+    'text' => 'مع السائق للتوصيل للمستلم',
+  ),
+)
+ ================ 
+array (
+  'action' => 'change_shipment_status',
+  'action_type' => 'shipment_status_in_bound',
+  'company_id' => '1400',
+  'tracking_id' => '6437461400262',
+  'invoice_ref' => '2329',
+  'date' => '2023-02-08 16:08:59',
+  'is_delivered' => '0',
+  'is_reversed_shipment' => '0',
+  'shipment_type' => 
+  array (
+    'id' => 'transport',
+    'label' => 'شحنة نقل',
+  ),
+  'status' => 
+  array (
+    'id' => '3',
+    'text' => 'في المستودع [مستودع رام لله A] ',
+  ),
+  'prev_status' => 
+  array (
+    'id' => '41',
+    'text' => 'تم رفضها',
+  ),
+)
+ ================ 
+array (
+  'action' => 'change_shipment_status',
+  'action_type' => 'shipment_status_returned_to_shipper',
+  'company_id' => '1400',
+  'tracking_id' => '6437461400262',
+  'invoice_ref' => '2329',
+  'date' => '2023-02-08 16:09:04',
+  'is_delivered' => '1',
+  'is_reversed_shipment' => '0',
+  'shipment_type' => 
+  array (
+    'id' => 'transport',
+    'label' => 'شحنة نقل',
+  ),
+  'status' => 
+  array (
+    'id' => '44',
+    'text' => 'أعيدت إلى المرسل',
+  ),
+  'prev_status' => 
+  array (
+    'id' => '3',
+    'text' => 'في المستودع [مستودع رام لله A] ',
+  ),
+)
+ ================ 
+array (
+  'action' => 'change_shipment_status',
+  'action_type' => 'shipment_status_with_courier',
+  'company_id' => '1400',
+  'tracking_id' => '6561321400664',
+  'invoice_ref' => '2329',
+  'date' => '2023-02-08 16:10:23',
+  'is_delivered' => '0',
+  'is_reversed_shipment' => '1',
+  'base_shipment_tracking_id' => '6437461400262',
+  'shipment_type' => 
+  array (
+    'id' => 'reversed_shipment',
+    'label' => 'شحنة إرجاع',
+  ),
+  'status' => 
+  array (
+    'id' => '6',
+    'text' => 'مع السائق للتوصيل للمستلم',
+  ),
+  'prev_status' => 
+  array (
+    'id' => '5',
+    'text' => 'تم معالجتها',
+  ),
+)
+ ================ 
+array (
+  'action' => 'change_shipment_status',
+  'action_type' => 'shipment_status_delivered',
+  'company_id' => '1400',
+  'tracking_id' => '6561321400664',
+  'invoice_ref' => '2329',
+  'date' => '2023-02-08 16:10:47',
+  'is_delivered' => '1',
+  'is_reversed_shipment' => '1',
+  'base_shipment_tracking_id' => '6437461400262',
+  'shipment_type' => 
+  array (
+    'id' => 'reversed_shipment',
+    'label' => 'شحنة إرجاع',
+  ),
+  'status' => 
+  array (
+    'id' => '7',
+    'text' => 'تم توصيلها إلى المستلم',
+  ),
+  'prev_status' => 
+  array (
+    'id' => '6',
+    'text' => 'مع السائق للتوصيل للمستلم',
+  ),
+)
+ ================ 
+array (
+  'action' => 'change_shipment_status',
+  'action_type' => 'shipment_status_delivered_cod',
+  'company_id' => '1400',
+  'tracking_id' => '6494881400986',
+  'invoice_ref' => '2565',
+  'date' => '2023-02-09 12:34:37',
+  'is_delivered' => '1',
+  'is_reversed_shipment' => '0',
+  'shipment_type' => 
+  array (
+    'id' => 'transport',
+    'label' => 'شحنة نقل',
+  ),
+  'status' => 
+  array (
+    'id' => '11',
+    'text' => 'تسليم ال COD للزبون',
+  ),
+  'prev_status' => 
+  array (
+    'id' => '20',
+    'text' => 'استلام ال COD المعد للتوصيل من قبل السائق',
+  ),
+)
+ ================ 
+array (
+  'action' => 'change_shipment_status',
+  'action_type' => 'shipment_status_delivered_cod',
+  'company_id' => '1400',
+  'tracking_id' => '6502941400967',
+  'invoice_ref' => '2615',
+  'date' => '2023-02-09 12:34:52',
+  'is_delivered' => '1',
+  'is_reversed_shipment' => '0',
+  'shipment_type' => 
+  array (
+    'id' => 'transport',
+    'label' => 'شحنة نقل',
+  ),
+  'status' => 
+  array (
+    'id' => '11',
+    'text' => 'تسليم ال COD للزبون',
+  ),
+  'prev_status' => 
+  array (
+    'id' => '20',
+    'text' => 'استلام ال COD المعد للتوصيل من قبل السائق',
+  ),
+)
+ ================ 
+array (
+  'action' => 'change_shipment_status',
+  'action_type' => 'shipment_status_delivered_cod',
+  'company_id' => '1400',
+  'tracking_id' => '6486481400941',
+  'invoice_ref' => '2513',
+  'date' => '2023-02-09 12:34:57',
+  'is_delivered' => '1',
+  'is_reversed_shipment' => '0',
+  'shipment_type' => 
+  array (
+    'id' => 'transport',
+    'label' => 'شحنة نقل',
+  ),
+  'status' => 
+  array (
+    'id' => '11',
+    'text' => 'تسليم ال COD للزبون',
+  ),
+  'prev_status' => 
+  array (
+    'id' => '20',
+    'text' => 'استلام ال COD المعد للتوصيل من قبل السائق',
+  ),
+)
+ ================ 
+array (
+  'action' => 'change_shipment_status',
+  'action_type' => 'shipment_status_delivered_cod',
+  'company_id' => '1400',
+  'tracking_id' => '6498331400858',
+  'invoice_ref' => '2595',
+  'date' => '2023-02-09 12:35:14',
+  'is_delivered' => '1',
+  'is_reversed_shipment' => '0',
+  'shipment_type' => 
+  array (
+    'id' => 'transport',
+    'label' => 'شحنة نقل',
+  ),
+  'status' => 
+  array (
+    'id' => '11',
+    'text' => 'تسليم ال COD للزبون',
+  ),
+  'prev_status' => 
+  array (
+    'id' => '20',
+    'text' => 'استلام ال COD المعد للتوصيل من قبل السائق',
+  ),
+)
+ ================ 
+array (
+  'action' => 'change_shipment_status',
+  'action_type' => 'shipment_status_with_courier',
+  'company_id' => '1400',
+  'tracking_id' => '6502951400929',
+  'invoice_ref' => '2617',
+  'date' => '2023-02-11 09:18:44',
+  'is_delivered' => '0',
+  'is_reversed_shipment' => '0',
+  'shipment_type' => 
+  array (
+    'id' => 'transport',
+    'label' => 'شحنة نقل',
+  ),
+  'status' => 
+  array (
+    'id' => '6',
+    'text' => 'مع السائق للتوصيل للمستلم',
+  ),
+  'prev_status' => 
+  array (
+    'id' => '5',
+    'text' => 'تم معالجتها',
+  ),
+)
+ ================ 
+array (
+  'action' => 'change_shipment_cost',
+  'action_type' => 'shipment_cost_changed',
+  'company_id' => '1400',
+  'tracking_id' => '6483941400985',
+  'invoice_ref' => '2470',
+  'date' => '2023-02-11 11:42:18',
+  'is_delivered' => '0',
+  'is_reversed_shipment' => '0',
+  'shipment_type' => 
+  array (
+    'id' => 'transport',
+    'label' => 'شحنة نقل',
+  ),
+  'cost' => 
+  array (
+    'shipment_amount' => '70',
+    'shipment_returned_amount' => '0',
+    'currency' => 'ils',
+  ),
+  'status' => 
+  array (
+    'id' => '6',
+    'text' => 'مع السائق للتوصيل للمستلم',
+  ),
+  'prev_status' => 
+  array (
+    'id' => '5',
+    'text' => 'تم معالجتها',
+  ),
+)
+ ================ 
+array (
+  'action' => 'change_shipment_status',
+  'action_type' => 'shipment_status_rejected',
+  'company_id' => '1400',
+  'tracking_id' => '6483941400985',
+  'invoice_ref' => '2470',
+  'date' => '2023-02-11 11:42:34',
+  'is_delivered' => '0',
+  'is_reversed_shipment' => '0',
+  'shipment_type' => 
+  array (
+    'id' => 'transport',
+    'label' => 'شحنة نقل',
+  ),
+  'status' => 
+  array (
+    'id' => '41',
+    'text' => 'تم رفضها',
+  ),
+  'prev_status' => 
+  array (
+    'id' => '6',
+    'text' => 'مع السائق للتوصيل للمستلم',
+  ),
+)
+ ================ 
+array (
+  'action' => 'change_shipment_status',
+  'action_type' => 'shipment_status_in_bound',
+  'company_id' => '1400',
+  'tracking_id' => '6483941400985',
+  'invoice_ref' => '2470',
+  'date' => '2023-02-11 11:43:25',
+  'is_delivered' => '0',
+  'is_reversed_shipment' => '0',
+  'shipment_type' => 
+  array (
+    'id' => 'transport',
+    'label' => 'شحنة نقل',
+  ),
+  'status' => 
+  array (
+    'id' => '3',
+    'text' => 'في المستودع [مستودع رام لله A] ',
+  ),
+  'prev_status' => 
+  array (
+    'id' => '41',
+    'text' => 'تم رفضها',
+  ),
+)
+ ================ 
+array (
+  'action' => 'change_shipment_status',
+  'action_type' => 'shipment_status_returned_to_shipper',
+  'company_id' => '1400',
+  'tracking_id' => '6483941400985',
+  'invoice_ref' => '2470',
+  'date' => '2023-02-11 11:43:35',
+  'is_delivered' => '1',
+  'is_reversed_shipment' => '0',
+  'shipment_type' => 
+  array (
+    'id' => 'transport',
+    'label' => 'شحنة نقل',
+  ),
+  'status' => 
+  array (
+    'id' => '44',
+    'text' => 'أعيدت إلى المرسل',
+  ),
+  'prev_status' => 
+  array (
+    'id' => '3',
+    'text' => 'في المستودع [مستودع رام لله A] ',
+  ),
+)
+ ================ 
+array (
+  'action' => 'change_shipment_status',
+  'action_type' => 'shipment_status_delivered_cod',
+  'company_id' => '1400',
+  'tracking_id' => '6468511400482',
+  'invoice_ref' => '2421',
+  'date' => '2023-02-11 15:05:38',
+  'is_delivered' => '1',
+  'is_reversed_shipment' => '0',
+  'shipment_type' => 
+  array (
+    'id' => 'transport',
+    'label' => 'شحنة نقل',
+  ),
+  'status' => 
+  array (
+    'id' => '11',
+    'text' => 'تسليم ال COD للزبون',
+  ),
+  'prev_status' => 
+  array (
+    'id' => '20',
+    'text' => 'استلام ال COD المعد للتوصيل من قبل السائق',
+  ),
+)
+ ================ 
+array (
+  'action' => 'change_shipment_status',
+  'action_type' => 'shipment_status_with_courier',
+  'company_id' => '1400',
+  'tracking_id' => '6567181400653',
+  'invoice_ref' => '2470',
+  'date' => '2023-02-12 08:13:42',
+  'is_delivered' => '0',
+  'is_reversed_shipment' => '1',
+  'base_shipment_tracking_id' => '6483941400985',
+  'shipment_type' => 
+  array (
+    'id' => 'reversed_shipment',
+    'label' => 'شحنة إرجاع',
+  ),
+  'status' => 
+  array (
+    'id' => '6',
+    'text' => 'مع السائق للتوصيل للمستلم',
+  ),
+  'prev_status' => 
+  array (
+    'id' => '5',
+    'text' => 'تم معالجتها',
+  ),
+)
+ ================ 
+array (
+  'action' => 'change_shipment_status',
+  'action_type' => 'shipment_status_in_bound',
+  'company_id' => '1400',
+  'tracking_id' => '6567181400653',
+  'invoice_ref' => '2470',
+  'date' => '2023-02-12 17:41:35',
+  'is_delivered' => '0',
+  'is_reversed_shipment' => '1',
+  'base_shipment_tracking_id' => '6483941400985',
+  'shipment_type' => 
+  array (
+    'id' => 'reversed_shipment',
+    'label' => 'شحنة إرجاع',
+  ),
+  'status' => 
+  array (
+    'id' => '3',
+    'text' => 'في المستودع [مستودع رام لله A] ',
+  ),
+  'prev_status' => 
+  array (
+    'id' => '6',
+    'text' => 'مع السائق للتوصيل للمستلم',
+  ),
+)
+ ================ 
+array (
+  'action' => 'change_shipment_status',
+  'action_type' => 'shipment_status_with_courier',
+  'company_id' => '1400',
+  'tracking_id' => '6567181400653',
+  'invoice_ref' => '2470',
+  'date' => '2023-02-13 08:57:38',
+  'is_delivered' => '0',
+  'is_reversed_shipment' => '1',
+  'base_shipment_tracking_id' => '6483941400985',
+  'shipment_type' => 
+  array (
+    'id' => 'reversed_shipment',
+    'label' => 'شحنة إرجاع',
+  ),
+  'status' => 
+  array (
+    'id' => '6',
+    'text' => 'مع السائق للتوصيل للمستلم',
+  ),
+  'prev_status' => 
+  array (
+    'id' => '5',
+    'text' => 'تم معالجتها',
+  ),
+)
+ ================ 
+array (
+  'action' => 'change_shipment_status',
+  'action_type' => 'shipment_status_delivered',
+  'company_id' => '1400',
+  'tracking_id' => '6567181400653',
+  'invoice_ref' => '2470',
+  'date' => '2023-02-13 10:43:08',
+  'is_delivered' => '1',
+  'is_reversed_shipment' => '1',
+  'base_shipment_tracking_id' => '6483941400985',
+  'shipment_type' => 
+  array (
+    'id' => 'reversed_shipment',
+    'label' => 'شحنة إرجاع',
+  ),
+  'status' => 
+  array (
+    'id' => '7',
+    'text' => 'تم توصيلها إلى المستلم',
+  ),
+  'prev_status' => 
+  array (
+    'id' => '6',
+    'text' => 'مع السائق للتوصيل للمستلم',
+  ),
+)
+ ================ 
+array (
+  'action' => 'change_shipment_status',
+  'action_type' => 'shipment_status_in_bound',
+  'company_id' => '1400',
+  'tracking_id' => '6502951400929',
+  'invoice_ref' => '2617',
+  'date' => '2023-02-16 14:59:11',
+  'is_delivered' => '0',
+  'is_reversed_shipment' => '0',
+  'shipment_type' => 
+  array (
+    'id' => 'transport',
+    'label' => 'شحنة نقل',
+  ),
+  'status' => 
+  array (
+    'id' => '3',
+    'text' => 'في المستودع [مستودع رام لله A] ',
+  ),
+  'prev_status' => 
+  array (
+    'id' => '21',
+    'text' => 'أعيدت إلى المستودع',
+  ),
+)
+ ================ 
+array (
+  'action' => 'change_shipment_status',
+  'action_type' => 'shipment_status_with_courier',
+  'company_id' => '1400',
+  'tracking_id' => '6502951400929',
+  'invoice_ref' => '2617',
+  'date' => '2023-02-18 09:58:28',
+  'is_delivered' => '0',
+  'is_reversed_shipment' => '0',
+  'shipment_type' => 
+  array (
+    'id' => 'transport',
+    'label' => 'شحنة نقل',
+  ),
+  'status' => 
+  array (
+    'id' => '6',
+    'text' => 'مع السائق للتوصيل للمستلم',
+  ),
+  'prev_status' => 
+  array (
+    'id' => '5',
+    'text' => 'تم معالجتها',
+  ),
+)
+ ================ 
+array (
+  'action' => 'change_shipment_status',
+  'action_type' => 'shipment_status_rejected',
+  'company_id' => '1400',
+  'tracking_id' => '6502951400929',
+  'invoice_ref' => '2617',
+  'date' => '2023-02-19 09:10:19',
+  'is_delivered' => '0',
+  'is_reversed_shipment' => '0',
+  'shipment_type' => 
+  array (
+    'id' => 'transport',
+    'label' => 'شحنة نقل',
+  ),
+  'status' => 
+  array (
+    'id' => '41',
+    'text' => 'تم رفضها',
+  ),
+  'prev_status' => 
+  array (
+    'id' => '6',
+    'text' => 'مع السائق للتوصيل للمستلم',
+  ),
+)
+ ================ 
+array (
+  'action' => 'change_shipment_status',
+  'action_type' => 'shipment_status_in_bound',
+  'company_id' => '1400',
+  'tracking_id' => '6502951400929',
+  'invoice_ref' => '2617',
+  'date' => '2023-02-19 09:11:47',
+  'is_delivered' => '0',
+  'is_reversed_shipment' => '0',
+  'shipment_type' => 
+  array (
+    'id' => 'transport',
+    'label' => 'شحنة نقل',
+  ),
+  'status' => 
+  array (
+    'id' => '3',
+    'text' => 'في المستودع [مستودع رام لله A] ',
+  ),
+  'prev_status' => 
+  array (
+    'id' => '41',
+    'text' => 'تم رفضها',
+  ),
+)
+ ================ 
+array (
+  'action' => 'change_shipment_status',
+  'action_type' => 'shipment_status_returned_to_shipper',
+  'company_id' => '1400',
+  'tracking_id' => '6502951400929',
+  'invoice_ref' => '2617',
+  'date' => '2023-02-19 09:11:59',
+  'is_delivered' => '1',
+  'is_reversed_shipment' => '0',
+  'shipment_type' => 
+  array (
+    'id' => 'transport',
+    'label' => 'شحنة نقل',
+  ),
+  'status' => 
+  array (
+    'id' => '44',
+    'text' => 'أعيدت إلى المرسل',
+  ),
+  'prev_status' => 
+  array (
+    'id' => '3',
+    'text' => 'في المستودع [مستودع رام لله A] ',
+  ),
+)
+ ================ 
+array (
+  'action' => 'change_shipment_status',
+  'action_type' => 'shipment_status_in_bound',
+  'company_id' => '1400',
+  'tracking_id' => '6594721400954',
+  'invoice_ref' => '2617',
+  'date' => '2023-02-20 09:53:10',
+  'is_delivered' => '0',
+  'is_reversed_shipment' => '1',
+  'base_shipment_tracking_id' => '6502951400929',
+  'shipment_type' => 
+  array (
+    'id' => 'reversed_shipment',
+    'label' => 'شحنة إرجاع',
+  ),
+  'status' => 
+  array (
+    'id' => '3',
+    'text' => 'في المستودع [مستودع رام لله A] ',
+  ),
+  'prev_status' => 
+  array (
+    'id' => '21',
+    'text' => 'أعيدت إلى المستودع',
+  ),
+)
+ ================ 
+array (
+  'action' => 'change_shipment_status',
+  'action_type' => 'shipment_status_in_bound',
+  'company_id' => '1400',
+  'tracking_id' => '6594721400954',
+  'invoice_ref' => '2617',
+  'date' => '2023-02-21 09:29:25',
+  'is_delivered' => '0',
+  'is_reversed_shipment' => '1',
+  'base_shipment_tracking_id' => '6502951400929',
+  'shipment_type' => 
+  array (
+    'id' => 'reversed_shipment',
+    'label' => 'شحنة إرجاع',
+  ),
+  'status' => 
+  array (
+    'id' => '3',
+    'text' => 'في المستودع [مستودع رام لله A] ',
+  ),
+  'prev_status' => 
+  array (
+    'id' => '21',
+    'text' => 'أعيدت إلى المستودع',
+  ),
+)
+ ================ 
+array (
+  'action' => 'change_shipment_status',
+  'action_type' => 'shipment_status_with_courier',
+  'company_id' => '1400',
+  'tracking_id' => '6594721400954',
+  'invoice_ref' => '2617',
+  'date' => '2023-02-22 09:15:14',
+  'is_delivered' => '0',
+  'is_reversed_shipment' => '1',
+  'base_shipment_tracking_id' => '6502951400929',
+  'shipment_type' => 
+  array (
+    'id' => 'reversed_shipment',
+    'label' => 'شحنة إرجاع',
+  ),
+  'status' => 
+  array (
+    'id' => '6',
+    'text' => 'مع السائق للتوصيل للمستلم',
+  ),
+  'prev_status' => 
+  array (
+    'id' => '5',
+    'text' => 'تم معالجتها',
+  ),
+)
+ ================ 
+array (
+  'action' => 'change_shipment_status',
+  'action_type' => 'shipment_status_delivered',
+  'company_id' => '1400',
+  'tracking_id' => '6594721400954',
+  'invoice_ref' => '2617',
+  'date' => '2023-02-22 14:23:12',
+  'is_delivered' => '1',
+  'is_reversed_shipment' => '1',
+  'base_shipment_tracking_id' => '6502951400929',
+  'shipment_type' => 
+  array (
+    'id' => 'reversed_shipment',
+    'label' => 'شحنة إرجاع',
+  ),
+  'status' => 
+  array (
+    'id' => '7',
+    'text' => 'تم توصيلها إلى المستلم',
+  ),
+  'prev_status' => 
+  array (
+    'id' => '6',
+    'text' => 'مع السائق للتوصيل للمستلم',
+  ),
+)
+ ================ 
+array (
+  'action' => 'change_shipment_status',
+  'action_type' => 'shipment_status_delivered',
+  'company_id' => '1400',
+  'tracking_id' => '6594721400954',
+  'invoice_ref' => '2617',
+  'date' => '2023-02-22 14:23:12',
+  'is_delivered' => '1',
+  'is_reversed_shipment' => '1',
+  'base_shipment_tracking_id' => '6502951400929',
+  'shipment_type' => 
+  array (
+    'id' => 'reversed_shipment',
+    'label' => 'شحنة إرجاع',
+  ),
+  'status' => 
+  array (
+    'id' => '7',
+    'text' => 'تم توصيلها إلى المستلم',
+  ),
+  'prev_status' => 
+  array (
+    'id' => '6',
+    'text' => 'مع السائق للتوصيل للمستلم',
+  ),
+)
+ ================ 
+array (
+  'action' => 'change_shipment_cost',
+  'action_type' => 'shipment_cost_changed',
+  'company_id' => '1400',
+  'tracking_id' => '6561321400664',
+  'invoice_ref' => '2329',
+  'date' => '2023-02-27 08:43:39',
+  'is_delivered' => '1',
+  'is_reversed_shipment' => '1',
+  'base_shipment_tracking_id' => '6437461400262',
+  'shipment_type' => 
+  array (
+    'id' => 'reversed_shipment',
+    'label' => 'شحنة إرجاع',
+  ),
+  'cost' => 
+  array (
+    'shipment_amount' => '0',
+    'shipment_returned_amount' => '0',
+    'currency' => 'ils',
+  ),
+  'status' => 
+  array (
+    'id' => '7',
+    'text' => 'تم توصيلها إلى المستلم',
+  ),
+  'prev_status' => 
+  array (
+    'id' => '6',
+    'text' => 'مع السائق للتوصيل للمستلم',
+  ),
+)
+ ================ 
+array (
+  'action' => 'change_shipment_cost',
+  'action_type' => 'shipment_cost_changed',
+  'company_id' => '1400',
+  'tracking_id' => '6561321400664',
+  'invoice_ref' => '2329',
+  'date' => '2023-02-27 08:43:54',
+  'is_delivered' => '1',
+  'is_reversed_shipment' => '1',
+  'base_shipment_tracking_id' => '6437461400262',
+  'shipment_type' => 
+  array (
+    'id' => 'reversed_shipment',
+    'label' => 'شحنة إرجاع',
+  ),
+  'cost' => 
+  array (
+    'shipment_amount' => '0',
+    'shipment_returned_amount' => '0',
+    'currency' => 'ils',
+  ),
+  'status' => 
+  array (
+    'id' => '7',
+    'text' => 'تم توصيلها إلى المستلم',
+  ),
+  'prev_status' => 
+  array (
+    'id' => '6',
+    'text' => 'مع السائق للتوصيل للمستلم',
+  ),
+)
+ ================ 
+array (
+  'action' => 'change_shipment_cost',
+  'action_type' => 'shipment_cost_changed',
+  'company_id' => '1400',
+  'tracking_id' => '6561321400664',
+  'invoice_ref' => '2329',
+  'date' => '2023-02-27 08:44:27',
+  'is_delivered' => '1',
+  'is_reversed_shipment' => '1',
+  'base_shipment_tracking_id' => '6437461400262',
+  'shipment_type' => 
+  array (
+    'id' => 'reversed_shipment',
+    'label' => 'شحنة إرجاع',
+  ),
+  'cost' => 
+  array (
+    'shipment_amount' => '70',
+    'shipment_returned_amount' => '70',
+    'currency' => 'ils',
+  ),
+  'status' => 
+  array (
+    'id' => '7',
+    'text' => 'تم توصيلها إلى المستلم',
+  ),
+  'prev_status' => 
+  array (
+    'id' => '6',
+    'text' => 'مع السائق للتوصيل للمستلم',
+  ),
+)
+ ================ 
+array (
+  'action' => 'change_shipment_cost',
+  'action_type' => 'shipment_cost_changed',
+  'company_id' => '1400',
+  'tracking_id' => '6567181400653',
+  'invoice_ref' => '2470',
+  'date' => '2023-02-27 08:49:00',
+  'is_delivered' => '1',
+  'is_reversed_shipment' => '1',
+  'base_shipment_tracking_id' => '6483941400985',
+  'shipment_type' => 
+  array (
+    'id' => 'reversed_shipment',
+    'label' => 'شحنة إرجاع',
+  ),
+  'cost' => 
+  array (
+    'shipment_amount' => '0',
+    'shipment_returned_amount' => '0',
+    'currency' => 'ils',
+  ),
+  'status' => 
+  array (
+    'id' => '7',
+    'text' => 'تم توصيلها إلى المستلم',
+  ),
+  'prev_status' => 
+  array (
+    'id' => '6',
+    'text' => 'مع السائق للتوصيل للمستلم',
+  ),
+)
+ ================ 
+array (
+  'action' => 'change_shipment_cost',
+  'action_type' => 'shipment_cost_changed',
+  'company_id' => '1400',
+  'tracking_id' => '6567181400653',
+  'invoice_ref' => '2470',
+  'date' => '2023-02-27 08:49:33',
+  'is_delivered' => '1',
+  'is_reversed_shipment' => '1',
+  'base_shipment_tracking_id' => '6483941400985',
+  'shipment_type' => 
+  array (
+    'id' => 'reversed_shipment',
+    'label' => 'شحنة إرجاع',
+  ),
+  'cost' => 
+  array (
+    'shipment_amount' => '70',
+    'shipment_returned_amount' => '70',
+    'currency' => 'ils',
+  ),
+  'status' => 
+  array (
+    'id' => '7',
+    'text' => 'تم توصيلها إلى المستلم',
+  ),
+  'prev_status' => 
+  array (
+    'id' => '6',
+    'text' => 'مع السائق للتوصيل للمستلم',
+  ),
+)
+ ================ 
+array (
+  'action' => 'change_shipment_cost',
+  'action_type' => 'shipment_cost_changed',
+  'company_id' => '1400',
+  'tracking_id' => '6483941400985',
+  'invoice_ref' => '2470',
+  'date' => '2023-03-06 10:14:22',
+  'is_delivered' => '1',
+  'is_reversed_shipment' => '0',
+  'shipment_type' => 
+  array (
+    'id' => 'transport',
+    'label' => 'شحنة نقل',
+  ),
+  'cost' => 
+  array (
+    'shipment_amount' => '0',
+    'shipment_returned_amount' => '0',
+    'currency' => 'ils',
+  ),
+  'status' => 
+  array (
+    'id' => '44',
+    'text' => 'أعيدت إلى المرسل',
+  ),
+  'prev_status' => 
+  array (
+    'id' => '3',
+    'text' => 'في المستودع [مستودع رام لله A] ',
+  ),
+)
+ ================ 
+array (
+  'action' => 'change_shipment_cost',
+  'action_type' => 'shipment_cost_changed',
+  'company_id' => '1400',
+  'tracking_id' => '6567181400653',
+  'invoice_ref' => '2470',
+  'date' => '2023-03-06 10:20:56',
+  'is_delivered' => '1',
+  'is_reversed_shipment' => '1',
+  'base_shipment_tracking_id' => '6483941400985',
+  'shipment_type' => 
+  array (
+    'id' => 'reversed_shipment',
+    'label' => 'شحنة إرجاع',
+  ),
+  'cost' => 
+  array (
+    'shipment_amount' => '70',
+    'shipment_returned_amount' => '70',
+    'currency' => 'ils',
+  ),
+  'status' => 
+  array (
+    'id' => '7',
+    'text' => 'تم توصيلها إلى المستلم',
+  ),
+  'prev_status' => 
+  array (
+    'id' => '6',
+    'text' => 'مع السائق للتوصيل للمستلم',
+  ),
+)
+ ================ 
+array (
+  'action' => 'change_shipment_cost',
+  'action_type' => 'shipment_cost_changed',
+  'company_id' => '1400',
+  'tracking_id' => '6567181400653',
+  'invoice_ref' => '2470',
+  'date' => '2023-03-06 10:21:47',
+  'is_delivered' => '1',
+  'is_reversed_shipment' => '1',
+  'base_shipment_tracking_id' => '6483941400985',
+  'shipment_type' => 
+  array (
+    'id' => 'reversed_shipment',
+    'label' => 'شحنة إرجاع',
+  ),
+  'cost' => 
+  array (
+    'shipment_amount' => '70',
+    'shipment_returned_amount' => '70',
+    'currency' => 'ils',
+  ),
+  'status' => 
+  array (
+    'id' => '7',
+    'text' => 'تم توصيلها إلى المستلم',
+  ),
+  'prev_status' => 
+  array (
+    'id' => '6',
+    'text' => 'مع السائق للتوصيل للمستلم',
+  ),
+)
+ ================ 
+array (
+  'action' => 'change_shipment_cost',
+  'action_type' => 'shipment_cost_changed',
+  'company_id' => '1400',
+  'tracking_id' => '6483941400985',
+  'invoice_ref' => '2470',
+  'date' => '2023-03-06 10:22:20',
+  'is_delivered' => '1',
+  'is_reversed_shipment' => '0',
+  'shipment_type' => 
+  array (
+    'id' => 'transport',
+    'label' => 'شحنة نقل',
+  ),
+  'cost' => 
+  array (
+    'shipment_amount' => '0',
+    'shipment_returned_amount' => '0',
+    'currency' => 'ils',
+  ),
+  'status' => 
+  array (
+    'id' => '44',
+    'text' => 'أعيدت إلى المرسل',
+  ),
+  'prev_status' => 
+  array (
+    'id' => '3',
+    'text' => 'في المستودع [مستودع رام لله A] ',
+  ),
+)
+ ================ 
+array (
+  'action' => 'change_shipment_cost',
+  'action_type' => 'shipment_cost_changed',
+  'company_id' => '1400',
+  'tracking_id' => '6567181400653',
+  'invoice_ref' => '2470',
+  'date' => '2023-03-06 10:23:17',
+  'is_delivered' => '1',
+  'is_reversed_shipment' => '1',
+  'base_shipment_tracking_id' => '6483941400985',
+  'shipment_type' => 
+  array (
+    'id' => 'reversed_shipment',
+    'label' => 'شحنة إرجاع',
+  ),
+  'cost' => 
+  array (
+    'shipment_amount' => '0',
+    'shipment_returned_amount' => '0',
+    'currency' => 'ils',
+  ),
+  'status' => 
+  array (
+    'id' => '7',
+    'text' => 'تم توصيلها إلى المستلم',
+  ),
+  'prev_status' => 
+  array (
+    'id' => '6',
+    'text' => 'مع السائق للتوصيل للمستلم',
+  ),
+)
+ ================ 
+array (
+  'action' => 'change_shipment_cost',
+  'action_type' => 'shipment_cost_changed',
+  'company_id' => '1400',
+  'tracking_id' => '6483941400985',
+  'invoice_ref' => '2470',
+  'date' => '2023-03-06 10:24:50',
+  'is_delivered' => '1',
+  'is_reversed_shipment' => '0',
+  'shipment_type' => 
+  array (
+    'id' => 'transport',
+    'label' => 'شحنة نقل',
+  ),
+  'cost' => 
+  array (
+    'shipment_amount' => '20',
+    'shipment_returned_amount' => '20',
+    'currency' => 'ils',
+  ),
+  'status' => 
+  array (
+    'id' => '44',
+    'text' => 'أعيدت إلى المرسل',
+  ),
+  'prev_status' => 
+  array (
+    'id' => '3',
+    'text' => 'في المستودع [مستودع رام لله A] ',
+  ),
+)
+ ================ 
+array (
+  'action' => 'change_shipment_cost',
+  'action_type' => 'shipment_cost_changed',
+  'company_id' => '1400',
+  'tracking_id' => '6561321400664',
+  'invoice_ref' => '2329',
+  'date' => '2023-03-06 10:28:05',
+  'is_delivered' => '1',
+  'is_reversed_shipment' => '1',
+  'base_shipment_tracking_id' => '6437461400262',
+  'shipment_type' => 
+  array (
+    'id' => 'reversed_shipment',
+    'label' => 'شحنة إرجاع',
+  ),
+  'cost' => 
+  array (
+    'shipment_amount' => '1.16',
+    'shipment_returned_amount' => '1.16',
+    'currency' => 'ils',
+  ),
+  'status' => 
+  array (
+    'id' => '7',
+    'text' => 'تم توصيلها إلى المستلم',
+  ),
+  'prev_status' => 
+  array (
+    'id' => '6',
+    'text' => 'مع السائق للتوصيل للمستلم',
+  ),
+)
+ ================ 
+array (
+  'action' => 'change_shipment_cost',
+  'action_type' => 'shipment_cost_changed',
+  'company_id' => '1400',
+  'tracking_id' => '6437461400262',
+  'invoice_ref' => '2329',
+  'date' => '2023-03-06 10:29:02',
+  'is_delivered' => '1',
+  'is_reversed_shipment' => '0',
+  'shipment_type' => 
+  array (
+    'id' => 'transport',
+    'label' => 'شحنة نقل',
+  ),
+  'cost' => 
+  array (
+    'shipment_amount' => '20',
+    'shipment_returned_amount' => '20',
+    'currency' => 'ils',
+  ),
+  'status' => 
+  array (
+    'id' => '44',
+    'text' => 'أعيدت إلى المرسل',
+  ),
+  'prev_status' => 
+  array (
+    'id' => '3',
+    'text' => 'في المستودع [مستودع رام لله A] ',
+  ),
+)
+ ================ 
+array (
+  'action' => 'change_shipment_cost',
+  'action_type' => 'shipment_cost_changed',
+  'company_id' => '1400',
+  'tracking_id' => '6437461400262',
+  'invoice_ref' => '2329',
+  'date' => '2023-03-06 10:32:07',
+  'is_delivered' => '1',
+  'is_reversed_shipment' => '0',
+  'shipment_type' => 
+  array (
+    'id' => 'transport',
+    'label' => 'شحنة نقل',
+  ),
+  'cost' => 
+  array (
+    'shipment_amount' => '20',
+    'shipment_returned_amount' => '20',
+    'currency' => 'ils',
+  ),
+  'status' => 
+  array (
+    'id' => '44',
+    'text' => 'أعيدت إلى المرسل',
+  ),
+  'prev_status' => 
+  array (
+    'id' => '3',
+    'text' => 'في المستودع [مستودع رام لله A] ',
+  ),
+)
+ ================ 
+array (
+  'action' => 'change_shipment_cost',
+  'action_type' => 'shipment_cost_changed',
+  'company_id' => '1400',
+  'tracking_id' => '6498331400858',
+  'invoice_ref' => '2595',
+  'date' => '2023-03-06 10:37:11',
+  'is_delivered' => '1',
+  'is_reversed_shipment' => '0',
+  'shipment_type' => 
+  array (
+    'id' => 'transport',
+    'label' => 'شحنة نقل',
+  ),
+  'cost' => 
+  array (
+    'shipment_amount' => '35',
+    'shipment_returned_amount' => '35',
+    'currency' => 'ils',
+  ),
+  'status' => 
+  array (
+    'id' => '11',
+    'text' => 'تسليم ال COD للزبون',
+  ),
+  'prev_status' => 
+  array (
+    'id' => '20',
+    'text' => 'استلام ال COD المعد للتوصيل من قبل السائق',
+  ),
+)
+ ================ 
+array (
+  'action' => 'change_shipment_cost',
+  'action_type' => 'shipment_cost_changed',
+  'company_id' => '1400',
+  'tracking_id' => '6501711400711',
+  'invoice_ref' => '2600',
+  'date' => '2023-03-06 10:38:51',
+  'is_delivered' => '1',
+  'is_reversed_shipment' => '0',
+  'shipment_type' => 
+  array (
+    'id' => 'transport',
+    'label' => 'شحنة نقل',
+  ),
+  'cost' => 
+  array (
+    'shipment_amount' => '92',
+    'shipment_returned_amount' => '92',
+    'currency' => 'ils',
+  ),
+  'status' => 
+  array (
+    'id' => '11',
+    'text' => 'تسليم ال COD للزبون',
+  ),
+  'prev_status' => 
+  array (
+    'id' => '20',
+    'text' => 'استلام ال COD المعد للتوصيل من قبل السائق',
+  ),
+)
+ ================ 
+array (
+  'action' => 'change_shipment_cost',
+  'action_type' => 'shipment_cost_changed',
+  'company_id' => '1400',
+  'tracking_id' => '6498351400304',
+  'invoice_ref' => '2593',
+  'date' => '2023-03-06 10:39:48',
+  'is_delivered' => '1',
+  'is_reversed_shipment' => '0',
+  'shipment_type' => 
+  array (
+    'id' => 'transport',
+    'label' => 'شحنة نقل',
+  ),
+  'cost' => 
+  array (
+    'shipment_amount' => '92',
+    'shipment_returned_amount' => '92',
+    'currency' => 'ils',
+  ),
+  'status' => 
+  array (
+    'id' => '11',
+    'text' => 'تسليم ال COD للزبون',
+  ),
+  'prev_status' => 
+  array (
+    'id' => '20',
+    'text' => 'استلام ال COD المعد للتوصيل من قبل السائق',
+  ),
+)
+ ================ 

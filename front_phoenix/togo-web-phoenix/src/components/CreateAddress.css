@@ -1,0 +1,16 @@
+.area-list-item {
+    cursor: pointer;
+}
+
+.area-list-item:hover {
+    background-color: lightgray;
+}
+
+.area-list-item .select-area {
+    display: none;
+    color: gray;
+}
+
+.area-list-item:hover .select-area {
+    display: inline;
+}

@@ -1,0 +1,674 @@
+' ************************************************************************************************ '
+ ================ 
+'(error) invalid delivery type: '
+ ================ 
+' ************************************************************************************************ '
+ ================ 
+'(error) invalid delivery type: '
+ ================ 
+' ************************************************************************************************ '
+ ================ 
+'(success) order record inserted'
+ ================ 
+'(success) last inserted order id: [7708]'
+ ================ 
+'(info) sender info: [sender_address_id: 5391, sender_village_id: 590, sender_region_id: 1, sender_other_details: 101 address, sender_longitude: , sender_latitude: ]'
+ ================ 
+'(info) sender info: [receiver_address_id: 5392, receiver_phone: 0598744312, receiver_village_id: 268, receiver_region_id: 1, receiver_other_details: test ph details, receiver_longitude: , receiver_latitude: ]'
+ ================ 
+'(success) order addresses record inserted'
+ ================ 
+'(success) client is exclusive, is_exclusive: 1'
+ ================ 
+'(info) regions: [(sender_region_id: 1 => source: westbank), (receiver_region_id: 1 => destination: westbank)]'
+ ================ 
+'(info) areas column = (WestbankToWestbank)'
+ ================ 
+'(success) delivery_sell_price: [17]'
+ ================ 
+'(success) cost reqord set'
+ ================ 
+'(success) timeline reqord set'
+ ================ 
+'(success) order updated to active'
+ ================ 
+'(error) client balance not enough, delivery_sell_price: [17]'
+ ================ 
+' ************************************************************************************************ '
+ ================ 
+'(success) order record inserted'
+ ================ 
+'(error) last inserted order-id not found'
+ ================ 
+' ************************************************************************************************ '
+ ================ 
+'(success) order record inserted'
+ ================ 
+'(success) last inserted order id: [7710]'
+ ================ 
+'(info) sender info: [sender_address_id: 5391, sender_village_id: 590, sender_region_id: 1, sender_other_details: 101 address, sender_longitude: , sender_latitude: ]'
+ ================ 
+'(info) sender info: [receiver_address_id: 5392, receiver_phone: 0598744312, receiver_village_id: 268, receiver_region_id: 1, receiver_other_details: test ph details, receiver_longitude: , receiver_latitude: ]'
+ ================ 
+'(success) order addresses record inserted'
+ ================ 
+'(success) client is exclusive, is_exclusive: 1'
+ ================ 
+'(info) regions: [(sender_region_id: 1 => source: westbank), (receiver_region_id: 1 => destination: westbank)]'
+ ================ 
+'(info) areas column = (WestbankToWestbank)'
+ ================ 
+'(success) delivery_sell_price: [17]'
+ ================ 
+'(success) cost reqord set'
+ ================ 
+'(success) timeline reqord set'
+ ================ 
+'(success) order updated to active'
+ ================ 
+'(error) client balance not enough, delivery_sell_price: [17]'
+ ================ 
+' ************************************************************************************************ '
+ ================ 
+'(success) order record inserted'
+ ================ 
+'(success) last inserted order id: [7711]'
+ ================ 
+'(info) sender info: [sender_address_id: 5391, sender_village_id: 590, sender_region_id: 1, sender_other_details: 101 address, sender_longitude: , sender_latitude: ]'
+ ================ 
+'(info) sender info: [receiver_address_id: 5392, receiver_phone: 0598744312, receiver_village_id: 268, receiver_region_id: 1, receiver_other_details: test ph details, receiver_longitude: , receiver_latitude: ]'
+ ================ 
+'(success) order addresses record inserted'
+ ================ 
+'(success) client is exclusive, is_exclusive: 1'
+ ================ 
+'(info) regions: [(sender_region_id: 1 => source: westbank), (receiver_region_id: 1 => destination: westbank)]'
+ ================ 
+'(info) areas column = (WestbankToWestbank)'
+ ================ 
+'(success) delivery_sell_price: [2]'
+ ================ 
+'(success) cost reqord set'
+ ================ 
+'(success) timeline reqord set'
+ ================ 
+'(success) order updated to active'
+ ================ 
+'(success) client balance checked'
+ ================ 
+'(success) transporter balance checked'
+ ================ 
+'(info)[create logestech order] delivery params: [cod: 1, notes: test order, delivery_type: COD]'
+ ================ 
+'(success)[create logestech order] transporter info: [username: hussam@phoenix.ps, password: hussam123, companyId: 151]'
+ ================ 
+'(success)[create logestech order] sender info: [sender_name: 101 name, sender_phone: 0592325932, sender_address_details: 101 address, sender_village_id: 590, sender_city_id: 5, sender_region_id: 1]'
+ ================ 
+'(success)[create logestech order] receiver info: [receiver_name: test phonix 1, receiver_phone: 0598744312, receiver_address_details: test ph details, receiver_village_id: 268, receiver_city_id: 7, receiver_region_id: 1]'
+ ================ 
+'(info)[create logestech order] logestechs create order api done, see (logestechsCreateOrderResponse.log) for more info'
+ ================ 
+'(error)[create logestech order] create logestechs api error'
+ ================ 
+' ************************************************************************************************ '
+ ================ 
+'(success) order record inserted'
+ ================ 
+'(success) last inserted order id: [7712]'
+ ================ 
+'(info) sender info: [sender_address_id: 5391, sender_village_id: 590, sender_region_id: 1, sender_other_details: 101 address, sender_longitude: , sender_latitude: ]'
+ ================ 
+'(info) sender info: [receiver_address_id: 5392, receiver_phone: 0598744312, receiver_village_id: 268, receiver_region_id: 1, receiver_other_details: test ph details, receiver_longitude: , receiver_latitude: ]'
+ ================ 
+'(success) order addresses record inserted'
+ ================ 
+'(success) client is exclusive, is_exclusive: 1'
+ ================ 
+'(info) regions: [(sender_region_id: 1 => source: westbank), (receiver_region_id: 1 => destination: westbank)]'
+ ================ 
+'(info) areas column = (WestbankToWestbank)'
+ ================ 
+'(success) delivery_sell_price: [2]'
+ ================ 
+'(success) cost reqord set'
+ ================ 
+'(success) timeline reqord set'
+ ================ 
+'(success) order updated to active'
+ ================ 
+'(success) client balance checked'
+ ================ 
+'(success) transporter balance checked'
+ ================ 
+'(info)[create logestech order] delivery params: [cod: 1, notes: test order, delivery_type: COD]'
+ ================ 
+'(success)[create logestech order] transporter info: [username: hussam@phoenix.ps, password: hussam123, companyId: 151]'
+ ================ 
+'(success)[create logestech order] sender info: [sender_name: 101 name, sender_phone: 0592325932, sender_address_details: 101 address, sender_village_id: 590, sender_city_id: 5, sender_region_id: 1]'
+ ================ 
+'(success)[create logestech order] receiver info: [receiver_name: test phonix 1, receiver_phone: 0598744312, receiver_address_details: test ph details, receiver_village_id: 268, receiver_city_id: 7, receiver_region_id: 1]'
+ ================ 
+' ************************************************************************************************ '
+ ================ 
+'(success) order record inserted'
+ ================ 
+'(success) last inserted order id: [7721]'
+ ================ 
+'(info) sender info: [sender_address_id: 5391, sender_village_id: 590, sender_region_id: 1, sender_other_details: 101 address, sender_longitude: , sender_latitude: ]'
+ ================ 
+'(info) sender info: [receiver_address_id: , receiver_phone: 0598744312, receiver_village_id: 268, receiver_region_id: 1, receiver_other_details: test ph details, receiver_longitude: , receiver_latitude: ]'
+ ================ 
+'(error) insert_order_addresses query error'
+ ================ 
+' ************************************************************************************************ '
+ ================ 
+'(success) order record inserted'
+ ================ 
+'(success) last inserted order id: [7722]'
+ ================ 
+'(info) sender info: [sender_address_id: 5391, sender_village_id: 590, sender_region_id: 1, sender_other_details: 101 address, sender_longitude: , sender_latitude: ]'
+ ================ 
+'(info) receiver info: [receiver_address_id: 5392, receiver_phone: 0598744312, receiver_village_id: 268, receiver_region_id: 1, receiver_other_details: test ph details, receiver_longitude: , receiver_latitude: ]'
+ ================ 
+'(success) order addresses record inserted'
+ ================ 
+'(success) client is exclusive, is_exclusive: 1'
+ ================ 
+'(info) regions: [(sender_region_id: 1 => source: westbank), (receiver_region_id: 1 => destination: westbank)]'
+ ================ 
+'(info) areas column = (WestbankToWestbank)'
+ ================ 
+'(success) delivery_sell_price: [2]'
+ ================ 
+'(success) cost reqord set'
+ ================ 
+'(success) timeline reqord set'
+ ================ 
+'(success) order updated to active'
+ ================ 
+'(success) client balance checked'
+ ================ 
+'(success) transporter balance checked'
+ ================ 
+' ************************************************************************************************ '
+ ================ 
+'(success) order record inserted'
+ ================ 
+'(success) last inserted order id: [7723]'
+ ================ 
+'(info) sender info: [sender_address_id: 5391, sender_village_id: 590, sender_region_id: 1, sender_other_details: 101 address, sender_longitude: , sender_latitude: ]'
+ ================ 
+'(info) receiver info: [receiver_address_id: 5392, receiver_phone: 0598744312, receiver_village_id: 268, receiver_region_id: 1, receiver_other_details: test ph details, receiver_longitude: , receiver_latitude: ]'
+ ================ 
+'(success) order addresses record inserted'
+ ================ 
+'(success) client is exclusive, is_exclusive: 1'
+ ================ 
+'(info) regions: [(sender_region_id: 1 => source: westbank), (receiver_region_id: 1 => destination: westbank)]'
+ ================ 
+'(info) areas column = (WestbankToWestbank)'
+ ================ 
+'(success) delivery_sell_price: [2]'
+ ================ 
+'(success) cost reqord set'
+ ================ 
+'(success) timeline reqord set'
+ ================ 
+'(success) order updated to active'
+ ================ 
+'(success) client balance checked'
+ ================ 
+'(success) transporter balance checked'
+ ================ 
+' ************************************************************************************************ '
+ ================ 
+'(success) order record inserted'
+ ================ 
+'(success) last inserted order id: [7726]'
+ ================ 
+'(info) sender info: [sender_address_id: 5391, sender_village_id: 590, sender_region_id: 1, sender_other_details: 101 address, sender_longitude: , sender_latitude: ]'
+ ================ 
+'(info) new address => sender info: [receiver_village_id: 589, receiver_village_en_name: Tulkarem, receiver_village_ar_name: طولكرم, receiver_city_id: 4, receiver_region_id: 1, receiver_region_name: West Bank, receiver_other_details: , receiver_latitude: , receiver_longitude: , receiver_phone: 0598444733, receiver_zip_code: , receiver_country: , is_shared_address: , receiver_address_additional_info: , receiver_address_name: test 3]'
+ ================ 
+'(error)[create address] transporter not found'
+ ================ 
+' ************************************************************************************************ '
+ ================ 
+'(success) order record inserted'
+ ================ 
+'(success) last inserted order id: [7727]'
+ ================ 
+'(info) sender info: [sender_address_id: 5391, sender_village_id: 590, sender_region_id: 1, sender_other_details: 101 address, sender_longitude: , sender_latitude: ]'
+ ================ 
+'(info) new address => sender info: [receiver_village_id: 589, receiver_village_en_name: Tulkarem, receiver_village_ar_name: طولكرم, receiver_city_id: 4, receiver_region_id: 1, receiver_region_name: West Bank, receiver_other_details: , receiver_latitude: , receiver_longitude: , receiver_phone: 0598444733, receiver_zip_code: , receiver_country: , is_shared_address: , receiver_address_additional_info: , receiver_address_name: test 3]'
+ ================ 
+'(error) insert_order_addresses query error'
+ ================ 
+' ************************************************************************************************ '
+ ================ 
+'(success) order record inserted'
+ ================ 
+'(success) last inserted order id: [7728]'
+ ================ 
+'(info) sender info: [sender_address_id: 5391, sender_village_id: 590, sender_region_id: 1, sender_other_details: 101 address, sender_longitude: , sender_latitude: ]'
+ ================ 
+'(info) new address => sender info: [receiver_village_id: 589, receiver_village_en_name: Tulkarem, receiver_village_ar_name: طولكرم, receiver_city_id: 4, receiver_region_id: 1, receiver_region_name: West Bank, receiver_other_details: test 3 det, receiver_latitude: , receiver_longitude: , receiver_phone: 0598444733, receiver_zip_code: , receiver_country: , is_shared_address: , receiver_address_additional_info: , receiver_address_name: test 3]'
+ ================ 
+'(error) insert_order_addresses query error'
+ ================ 
+' ************************************************************************************************ '
+ ================ 
+'(success) order record inserted'
+ ================ 
+'(success) last inserted order id: [7729]'
+ ================ 
+'(info) sender info: [sender_address_id: 5391, sender_village_id: 590, sender_region_id: 1, sender_other_details: 101 address, sender_longitude: , sender_latitude: ]'
+ ================ 
+'(info) new address => sender info: [receiver_village_id: 589, receiver_village_en_name: Tulkarem, receiver_village_ar_name: طولكرم, receiver_city_id: 4, receiver_region_id: 1, receiver_region_name: West Bank, receiver_other_details: test 3 details, receiver_latitude: , receiver_longitude: , receiver_phone: 0597456954, receiver_zip_code: , receiver_country: , is_shared_address: , receiver_address_additional_info: , receiver_address_name: test 3]'
+ ================ 
+'(error)[create address] transporter not found'
+ ================ 
+' ************************************************************************************************ '
+ ================ 
+'(info) delivery params: [delivery_type: 2, order_notes: , load_cost: 1, load_type: 2, currency: 1, create_date: 2023-10-05 14:58:04, old_order_idL: ]'
+ ================ 
+'(success) order record inserted'
+ ================ 
+'(success) last inserted order id: [7730]'
+ ================ 
+'(info) sender info: [sender_address_id: 5391, sender_village_id: 590, sender_region_id: 1, sender_other_details: 101 address, sender_longitude: , sender_latitude: ]'
+ ================ 
+'(info) new address => receiver info: [receiver_village_id: 589, receiver_village_en_name: Tulkarem, receiver_village_ar_name: طولكرم, receiver_city_id: 4, receiver_region_id: 1, receiver_region_name: West Bank, receiver_other_details: test details, receiver_latitude: , receiver_longitude: , receiver_phone: 0597545786, receiver_address_additional_info: , receiver_address_name: test 3 ]'
+ ================ 
+'(error)[create address] transporter not found'
+ ================ 
+' ************************************************************************************************ '
+ ================ 
+'(info) delivery params: [CustomerId: 292, isNewAddress: 1, delivery_type: 2, order_notes: , load_cost: 1, load_type: 2, currency: 1, create_date: 2023-10-05 14:59:10, old_order_idL: ]'
+ ================ 
+'(success) order record inserted'
+ ================ 
+'(success) last inserted order id: [7731]'
+ ================ 
+'(info) sender info: [sender_address_id: 5391, sender_village_id: 590, sender_region_id: 1, sender_other_details: 101 address, sender_longitude: , sender_latitude: ]'
+ ================ 
+'(info) new address => receiver info: [receiver_village_id: 589, receiver_village_en_name: Tulkarem, receiver_village_ar_name: طولكرم, receiver_city_id: 4, receiver_region_id: 1, receiver_region_name: West Bank, receiver_other_details: test details, receiver_latitude: , receiver_longitude: , receiver_phone: 0597545786, receiver_address_additional_info: , receiver_address_name: test 3 ]'
+ ================ 
+'(error)[create address] transporter not found'
+ ================ 
+' ************************************************************************************************ '
+ ================ 
+'(info) delivery params: [CustomerId: 292, isNewAddress: 1, delivery_type: 2, order_notes: , load_cost: 1, load_type: 2, currency: 1, create_date: 2023-10-05 15:02:12, old_order_idL: ]'
+ ================ 
+'(success) order record inserted'
+ ================ 
+'(success) last inserted order id: [7732]'
+ ================ 
+'(info) sender info: [sender_address_id: 5391, sender_village_id: 590, sender_region_id: 1, sender_other_details: 101 address, sender_longitude: , sender_latitude: ]'
+ ================ 
+'(info) new address => receiver info: [receiver_village_id: 589, receiver_village_en_name: Tulkarem, receiver_village_ar_name: طولكرم, receiver_city_id: 4, receiver_region_id: 1, receiver_region_name: West Bank, receiver_other_details: test details, receiver_latitude: , receiver_longitude: , receiver_phone: 0597545786, receiver_address_additional_info: , receiver_address_name: test 3 ]'
+ ================ 
+' ************************************************************************************************ '
+ ================ 
+'(info) delivery params: [CustomerId: 292, isNewAddress: 1, delivery_type: 2, order_notes: , load_cost: 1, load_type: 2, currency: 1, create_date: 2023-10-05 15:03:35, old_order_idL: ]'
+ ================ 
+'(success) order record inserted'
+ ================ 
+'(success) last inserted order id: [7733]'
+ ================ 
+'(info) sender info: [sender_address_id: 5391, sender_village_id: 590, sender_region_id: 1, sender_other_details: 101 address, sender_longitude: , sender_latitude: ]'
+ ================ 
+'(info) new address => receiver info: [receiver_village_id: 589, receiver_village_en_name: Tulkarem, receiver_village_ar_name: طولكرم, receiver_city_id: 4, receiver_region_id: 1, receiver_region_name: West Bank, receiver_other_details: test details, receiver_latitude: , receiver_longitude: , receiver_phone: 0597545786, receiver_address_additional_info: , receiver_address_name: test 3 ]'
+ ================ 
+'(success)[create address] regionEnName: West Bank, regionArName: الضفة الغربية'
+ ================ 
+'(success)[create address] new address added successfully'
+ ================ 
+'(success)[create address] last inserted address id: 5413'
+ ================ 
+'(success) order addresses record inserted'
+ ================ 
+'(success) client is exclusive, is_exclusive: 1'
+ ================ 
+'(info) regions: [(sender_region_id: 1 => source: westbank), (receiver_region_id: 1 => destination: westbank)]'
+ ================ 
+'(info) areas column = (WestbankToWestbank)'
+ ================ 
+'(success) delivery_sell_price: [2]'
+ ================ 
+'(success) cost reqord set'
+ ================ 
+'(success) timeline reqord set'
+ ================ 
+'(success) order updated to active'
+ ================ 
+'(success) client balance checked'
+ ================ 
+'(success) transporter balance checked'
+ ================ 
+'(success) order created successfully, order_id: 7733'
+ ================ 
+' ************************************************************************************************ '
+ ================ 
+'(info) delivery params: [CustomerId: 292, isNewAddress: 0, delivery_type: 2, order_notes: , load_cost: 1, load_type: 2, currency: 1, create_date: 2023-10-09 12:25:20, old_order_idL: ]'
+ ================ 
+'(success) order record inserted'
+ ================ 
+'(success) last inserted order id: [7743]'
+ ================ 
+'(info) sender info: [sender_address_id: 5391, sender_village_id: 590, sender_region_id: 1, sender_other_details: 101 address, sender_longitude: , sender_latitude: ]'
+ ================ 
+'(info) receiver info: [receiver_address_id: 5413, receiver_phone: 0597545786, receiver_village_id: 589, receiver_region_id: 1, receiver_other_details: test details, receiver_longitude: , receiver_latitude: ]'
+ ================ 
+'(success) order addresses record inserted'
+ ================ 
+'(success) client is exclusive, is_exclusive: 1'
+ ================ 
+'(info) regions: [(sender_region_id: 1 => source: westbank), (receiver_region_id: 1 => destination: westbank)]'
+ ================ 
+'(info) areas column = (WestbankToWestbank)'
+ ================ 
+'(success) delivery_sell_price: [2]'
+ ================ 
+'(success) cost reqord set'
+ ================ 
+'(success) timeline reqord set'
+ ================ 
+'(success) order updated to active'
+ ================ 
+'(success) client balance checked'
+ ================ 
+'(success) transporter balance checked'
+ ================ 
+'(success) order created successfully, order_id: 7743'
+ ================ 
+' ************************************************************************************************ '
+ ================ 
+'(info) delivery params: [CustomerId: 292, isNewAddress: 1, delivery_type: 2, order_notes: , load_cost: 1, load_type: 2, currency: 1, create_date: 2023-10-11 11:53:26, old_order_idL: ]'
+ ================ 
+'(success) order record inserted'
+ ================ 
+'(success) last inserted order id: [7744]'
+ ================ 
+'(info) sender info: [sender_address_id: 5391, sender_village_id: 590, sender_region_id: 1, sender_other_details: 101 address, sender_longitude: , sender_latitude: ]'
+ ================ 
+'(info) new address => receiver info: [receiver_village_id: 590, receiver_village_en_name: Ramallah and Al-Bireh, receiver_village_ar_name: رام الله والبيرة, receiver_city_id: 5, receiver_region_id: 1, receiver_region_name: West Bank, receiver_other_details: test 4 details, receiver_latitude: , receiver_longitude: , receiver_phone: 0567845655, receiver_address_additional_info: , receiver_address_name: test 4]'
+ ================ 
+'(success)[create address] regionEnName: West Bank, regionArName: الضفة الغربية'
+ ================ 
+'(success)[create address] new address added successfully'
+ ================ 
+'(success)[create address] last inserted address id: 5421'
+ ================ 
+'(success) order addresses record inserted'
+ ================ 
+'(success) client is exclusive, is_exclusive: 1'
+ ================ 
+'(info) regions: [(sender_region_id: 1 => source: westbank), (receiver_region_id: 1 => destination: westbank)]'
+ ================ 
+'(info) areas column = (WestbankToWestbank)'
+ ================ 
+'(success) delivery_sell_price: [2]'
+ ================ 
+'(success) cost reqord set'
+ ================ 
+'(success) timeline reqord set'
+ ================ 
+'(success) order updated to active'
+ ================ 
+'(success) client balance checked'
+ ================ 
+'(success) transporter balance checked'
+ ================ 
+'(info)[create logestech order] delivery params: [cod: 1, notes: , delivery_type: COD]'
+ ================ 
+'(success)[create logestech order] transporter info: [username: hussam@phoenix.ps, password: hussam123, companyId: 151]'
+ ================ 
+'(success)[create logestech order] sender info: [sender_name: 101 name, sender_phone: 0592325932, sender_address_details: 101 address, sender_village_id: 590, sender_city_id: 5, sender_region_id: 1]'
+ ================ 
+'(success)[create logestech order] receiver info: [receiver_name: test 4, receiver_phone: 0567845655, receiver_address_details: test 4 details, receiver_village_id: 590, receiver_city_id: 5, receiver_region_id: 1]'
+ ================ 
+'(success)[create logestech order] consignment number not found'
+ ================ 
+'(info)[create logestech order] logestechs create order api done, see (logestechsCreateOrderResponse.log) for more info'
+ ================ 
+'(success)[create logestech order] logestechs order created, order info: [logestechs_order_id: 12399019, logestechs_barcode: 131011026595, logestechs_barcode_img_url: https://elasticbeanstalk-eu-central-1-640066223797.s3-accelerate.amazonaws.com/barcodes/131011026595.png, logestechs_delivery_cost: 20]'
+ ================ 
+'(warning)[create logestech order] foreign deal-cost [20] is greater than or equal sell-price [2]'
+ ================ 
+'(error)[create logestech order] mark_order query error'
+ ================ 
+'(success) order created successfully, order_id: 7744'
+ ================ 
+' ************************************************************************************************ '
+ ================ 
+'(info) delivery params: [CustomerId: 292, isNewAddress: 0, delivery_type: 2, order_notes: , load_cost: 1, load_type: 2, currency: 1, create_date: 2023-10-12 14:57:19, old_order_idL: ]'
+ ================ 
+'(success) order record inserted'
+ ================ 
+'(success) last inserted order id: [7746]'
+ ================ 
+'(info) sender info: [sender_address_id: 5391, sender_village_id: 590, sender_region_id: 1, sender_other_details: 101 address, sender_longitude: , sender_latitude: ]'
+ ================ 
+'(info) receiver info: [receiver_address_id: 5421, receiver_phone: 0567845655, receiver_village_id: 590, receiver_region_id: 1, receiver_other_details: test 4 details, receiver_longitude: , receiver_latitude: ]'
+ ================ 
+'(success) order addresses record inserted'
+ ================ 
+'(success) client is exclusive, is_exclusive: 1'
+ ================ 
+'(info) regions: [(sender_region_id: 1 => source: westbank), (receiver_region_id: 1 => destination: westbank)]'
+ ================ 
+'(info) areas column = (WestbankToWestbank)'
+ ================ 
+'(success) delivery_sell_price: [2]'
+ ================ 
+'(success) cost reqord set'
+ ================ 
+'(success) timeline reqord set'
+ ================ 
+'(success) order updated to active'
+ ================ 
+'(success) client balance checked'
+ ================ 
+'(success) transporter balance checked'
+ ================ 
+'(info)[create logestech order] delivery params: [cod: 1, notes: , delivery_type: COD]'
+ ================ 
+'(success)[create logestech order] transporter info: [username: hussam@phoenix.ps, password: hussam123, companyId: 151]'
+ ================ 
+'(success)[create logestech order] sender info: [sender_name: 101 name, sender_phone: 0592325932, sender_address_details: 101 address, sender_village_id: 590, sender_city_id: 5, sender_region_id: 1]'
+ ================ 
+'(success)[create logestech order] receiver info: [receiver_name: test 4, receiver_phone: 0567845655, receiver_address_details: test 4 details, receiver_village_id: 590, receiver_city_id: 5, receiver_region_id: 1]'
+ ================ 
+'(success)[create logestech order] consignment number not found'
+ ================ 
+'(info)[create logestech order] logestechs create order api done, see (logestechsCreateOrderResponse.log) for more info'
+ ================ 
+'(success)[create logestech order] logestechs order created, order info: [logestechs_order_id: 12418181, logestechs_barcode: 131012045809, logestechs_barcode_img_url: https://elasticbeanstalk-eu-central-1-640066223797.s3-accelerate.amazonaws.com/barcodes/131012045809.png, logestechs_delivery_cost: 20]'
+ ================ 
+'(warning)[create logestech order] foreign deal-cost [20] is greater than or equal sell-price [2]'
+ ================ 
+'(success)[create logestech order] logestechs-order-id inserted'
+ ================ 
+'(success)[create logestech order] logestechs api done, order created successfully'
+ ================ 
+'(success) order created successfully, order_id: 7746'
+ ================ 
+' ************************************************************************************************ '
+ ================ 
+'(info) delivery params: [CustomerId: 292, isNewAddress: 0, delivery_type: 2, order_notes: , load_cost: 1, load_type: 2, currency: 1, create_date: 2023-10-12 15:33:36, old_order_idL: ]'
+ ================ 
+'(success) order record inserted'
+ ================ 
+'(success) last inserted order id: [7747]'
+ ================ 
+'(info) sender info: [sender_address_id: 5391, sender_village_id: 590, sender_region_id: 1, sender_other_details: 101 address, sender_longitude: , sender_latitude: ]'
+ ================ 
+'(info) receiver info: [receiver_address_id: 5421, receiver_phone: 0567845655, receiver_village_id: 590, receiver_region_id: 1, receiver_other_details: test 4 details, receiver_longitude: , receiver_latitude: ]'
+ ================ 
+'(success) order addresses record inserted'
+ ================ 
+'(success) client is exclusive, is_exclusive: 1'
+ ================ 
+'(info) regions: [(sender_region_id: 1 => source: westbank), (receiver_region_id: 1 => destination: westbank)]'
+ ================ 
+'(info) areas column = (WestbankToWestbank)'
+ ================ 
+'(success) delivery_sell_price: [2]'
+ ================ 
+'(success) cost reqord set'
+ ================ 
+'(success) timeline reqord set'
+ ================ 
+'(success) order updated to active'
+ ================ 
+'(success) client balance checked'
+ ================ 
+'(success) transporter balance checked'
+ ================ 
+'(info)[create logestech order] delivery params: [cod: 1, notes: , delivery_type: COD]'
+ ================ 
+'(success)[create logestech order] transporter info: [username: hussam@phoenix.ps, password: hussam123, companyId: 151]'
+ ================ 
+'(success)[create logestech order] sender info: [sender_name: 101 name, sender_phone: 0592325932, sender_address_details: 101 address, sender_village_id: 590, sender_city_id: 5, sender_region_id: 1]'
+ ================ 
+'(success)[create logestech order] receiver info: [receiver_name: test 4, receiver_phone: 0567845655, receiver_address_details: test 4 details, receiver_village_id: 590, receiver_city_id: 5, receiver_region_id: 1]'
+ ================ 
+'(success)[create logestech order] consignment number: 00025476'
+ ================ 
+'(info)[create logestech order] logestechs create order api done, see (logestechsCreateOrderResponse.log) for more info'
+ ================ 
+'(success)[create logestech order] logestechs order created, order info: [logestechs_order_id: 12418382, logestechs_barcode: 131012047643, logestechs_barcode_img_url: https://elasticbeanstalk-eu-central-1-640066223797.s3-accelerate.amazonaws.com/barcodes/131012047643.png, logestechs_delivery_cost: 20]'
+ ================ 
+'(warning)[create logestech order] foreign deal-cost [20] is greater than or equal sell-price [2]'
+ ================ 
+'(success)[create logestech order] logestechs-order-id inserted'
+ ================ 
+'(success)[create logestech order] logestechs api done, order created successfully'
+ ================ 
+'(success) order created successfully, order_id: 7747'
+ ================ 
+' ************************************************************************************************ '
+ ================ 
+'(info) delivery params: [CustomerId: 292, isNewAddress: 0, delivery_type: 2, order_notes: , load_cost: 1, load_type: 2, currency: 1, create_date: 2023-10-12 15:46:27, old_order_idL: ]'
+ ================ 
+'(success) order record inserted'
+ ================ 
+'(success) last inserted order id: [7748]'
+ ================ 
+'(info) sender info: [sender_address_id: 5391, sender_village_id: 590, sender_region_id: 1, sender_other_details: 101 address, sender_longitude: , sender_latitude: ]'
+ ================ 
+'(info) receiver info: [receiver_address_id: 5413, receiver_phone: 0597545786, receiver_village_id: 589, receiver_region_id: 1, receiver_other_details: test details, receiver_longitude: , receiver_latitude: ]'
+ ================ 
+'(success) order addresses record inserted'
+ ================ 
+'(success) client is exclusive, is_exclusive: 1'
+ ================ 
+'(info) regions: [(sender_region_id: 1 => source: westbank), (receiver_region_id: 1 => destination: westbank)]'
+ ================ 
+'(info) areas column = (WestbankToWestbank)'
+ ================ 
+'(success) delivery_sell_price: [22]'
+ ================ 
+'(success) cost reqord set'
+ ================ 
+'(success) timeline reqord set'
+ ================ 
+'(success) order updated to active'
+ ================ 
+'(error) client balance not enough, delivery_sell_price: [22]'
+ ================ 
+' ************************************************************************************************ '
+ ================ 
+'(info) delivery params: [CustomerId: 292, isNewAddress: 1, delivery_type: 2, order_notes: , load_cost: 1, load_type: 2, currency: 1, create_date: 2023-10-12 15:58:06, old_order_idL: ]'
+ ================ 
+'(success) order record inserted'
+ ================ 
+'(success) last inserted order id: [7749]'
+ ================ 
+'(info) sender info: [sender_address_id: 5391, sender_village_id: 590, sender_region_id: 1, sender_other_details: 101 address, sender_longitude: , sender_latitude: ]'
+ ================ 
+'(info) new address => receiver info: [receiver_village_id: 457, receiver_village_en_name: Al Manara, receiver_village_ar_name: المنارة, receiver_city_id: 25, receiver_region_id: 4, receiver_region_name: 48 Cities, receiver_other_details: test 55 details, receiver_latitude: , receiver_longitude: , receiver_phone: 6764948889, receiver_address_additional_info: , receiver_address_name: test 55]'
+ ================ 
+'(success)[create address] regionEnName: 48 Cities, regionArName: أراضي ال48'
+ ================ 
+'(success)[create address] new address added successfully'
+ ================ 
+'(success)[create address] last inserted address id: 5423'
+ ================ 
+'(success) order addresses record inserted'
+ ================ 
+'(success) client is exclusive, is_exclusive: 1'
+ ================ 
+'(info) regions: [(sender_region_id: 1 => source: westbank), (receiver_region_id: 4 => destination: areas48)]'
+ ================ 
+'(info) areas column = (WestbankToAreas48)'
+ ================ 
+'(success) delivery_sell_price: [70]'
+ ================ 
+'(success) cost reqord set'
+ ================ 
+'(success) timeline reqord set'
+ ================ 
+'(success) order updated to active'
+ ================ 
+'(error) client balance not enough, delivery_sell_price: [70]'
+ ================ 
+' ************************************************************************************************ '
+ ================ 
+'(info) delivery params: [CustomerId: 292, isNewAddress: 1, delivery_type: 2, order_notes: , load_cost: 1, load_type: 2, currency: 1, create_date: 2023-10-12 15:59:15, old_order_idL: ]'
+ ================ 
+'(success) order record inserted'
+ ================ 
+'(success) last inserted order id: [7750]'
+ ================ 
+'(info) sender info: [sender_address_id: 5391, sender_village_id: 590, sender_region_id: 1, sender_other_details: 101 address, sender_longitude: , sender_latitude: ]'
+ ================ 
+'(info) new address => receiver info: [receiver_village_id: 586, receiver_village_en_name: Nablus, receiver_village_ar_name: نابلس, receiver_city_id: 1, receiver_region_id: 1, receiver_region_name: West Bank, receiver_other_details: test 55 details, receiver_latitude: , receiver_longitude: , receiver_phone: 6764948889, receiver_address_additional_info: , receiver_address_name: test 55]'
+ ================ 
+'(success)[create address] regionEnName: West Bank, regionArName: الضفة الغربية'
+ ================ 
+'(success)[create address] new address added successfully'
+ ================ 
+'(success)[create address] last inserted address id: 5424'
+ ================ 
+'(success) order addresses record inserted'
+ ================ 
+'(success) client is exclusive, is_exclusive: 1'
+ ================ 
+'(info) regions: [(sender_region_id: 1 => source: westbank), (receiver_region_id: 1 => destination: westbank)]'
+ ================ 
+'(info) areas column = (WestbankToWestbank)'
+ ================ 
+'(success) delivery_sell_price: [22]'
+ ================ 
+'(success) cost reqord set'
+ ================ 
+'(success) timeline reqord set'
+ ================ 
+'(success) order updated to active'
+ ================ 
+'(success) client balance checked'
+ ================ 
+'(success) transporter balance checked'
+ ================ 
+'(info)[create logestech order] delivery params: [cod: 1, notes: , delivery_type: COD]'
+ ================ 
+'(success)[create logestech order] transporter info: [username: hussam@phoenix.ps, password: hussam123, companyId: 151]'
+ ================ 
+'(success)[create logestech order] sender info: [sender_name: 101 name, sender_phone: 0592325932, sender_address_details: 101 address, sender_village_id: 590, sender_city_id: 5, sender_region_id: 1]'
+ ================ 
+'(success)[create logestech order] receiver info: [receiver_name: test 55, receiver_phone: 6764948889, receiver_address_details: test 55 details, receiver_village_id: 586, receiver_city_id: 1, receiver_region_id: 1]'
+ ================ 
+'(success)[create logestech order] consignment number not found'
+ ================ 
+'(info)[create logestech order] logestechs create order api done, see (logestechsCreateOrderResponse.log) for more info'
+ ================ 
+'(success)[create logestech order] logestechs order created, order info: [logestechs_order_id: 12418500, logestechs_barcode: 131012048732, logestechs_barcode_img_url: https://elasticbeanstalk-eu-central-1-640066223797.s3-accelerate.amazonaws.com/barcodes/131012048732.png, logestechs_delivery_cost: 20]'
+ ================ 
+'(success)[create logestech order] logestechs-order-id inserted'
+ ================ 
+'(success)[create logestech order] logestechs api done, order created successfully'
+ ================ 
+'(success) order created successfully, order_id: 7750'
+ ================ 
